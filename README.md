@@ -16,7 +16,7 @@ Welcome to my 90 Days Data Structures & Algorithms journey.
 | 1 | Two Sum | Arrays | Easy | ✅ |
 | 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ✅ |
 | 3 | Contains Duplicate | Arrays | Easy | ✅ |
-| 4 | Maximum Subarray | Arrays | Medium | ⬜ |
+| 4 | Maximum Subarray | Arrays | Medium | ✅ |
 | 5 | Move Zeroes | Arrays | Easy | ⬜ |
 
 ---
