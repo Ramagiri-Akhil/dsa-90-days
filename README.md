@@ -18,6 +18,7 @@ Welcome to my 90 Days Data Structures & Algorithms journey.
 | 3 | Contains Duplicate | Arrays | Easy | ✅ |
 | 4 | Maximum Subarray | Arrays | Medium | ✅ |
 | 5 | Move Zeroes | Arrays | Easy | ✅ |
+| 6 | Reverse String | Strings | Easy | ✅ |
 
 ---
 
