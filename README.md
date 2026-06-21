@@ -19,6 +19,7 @@ Welcome to my 90 Days Data Structures & Algorithms journey.
 | 4 | Maximum Subarray | Arrays | Medium | ✅ |
 | 5 | Move Zeroes | Arrays | Easy | ✅ |
 | 6 | Reverse String | Strings | Easy | ✅ |
+| 7 | Valid Palindrome | Strings, Two Pointers | Easy | ✅ |
 
 ---
 
