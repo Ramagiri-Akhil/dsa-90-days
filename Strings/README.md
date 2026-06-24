@@ -10,6 +10,7 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 | 7 | Valid Palindrome | Easy | Two Pointers |
 | 8 | Longest Common Prefix | Easy | String Traversal |
 | 9 | Valid Anagram | Easy | Hash Map / Frequency Array |
+| 10 | First Unique Character in a String | Easy | Hash Map / Frequency Array |
 
 ---
 

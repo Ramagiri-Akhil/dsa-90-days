@@ -26,9 +26,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 5 |
-| Strings | 4 |
-| Total | **9 / 90** |
+| Strings | 5 |
+| Total | 10 / 90 |
 
 ---
 
@@ -45,6 +44,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 7 | Valid Palindrome | Strings | Easy | ✅ |
 | 8 | Longest Common Prefix | Strings | Easy | ✅ |
 | 9 | Valid Anagram | Strings | Easy | ✅ |
+| 10 | First Unique Character in a String | Strings | Easy | ✅ |
 
 ---
 
