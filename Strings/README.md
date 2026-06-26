@@ -12,7 +12,7 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 | 9 | Valid Anagram | Easy | Hash Map / Frequency Array |
 | 10 | First Unique Character in a String | Easy | Hash Map / Frequency Array |
 | 11 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers |
-
+| 12 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 ---
 
 ## 🎯 Concepts Learned

@@ -27,8 +27,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Topic | Problems Solved |
 |--------|----------------:|
 | Arrays | 5 |
-| Strings | 6 |
-| Total | **11 / 90** |
+| Strings | 7 |
+| Total | **12 / 90** |
 
 ---
 
@@ -47,6 +47,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 9 | Valid Anagram | Strings | Easy | ✅ |
 | 10 | First Unique Character in a String | Strings | Easy | ✅ |
 | 11 | Two Sum II - Input Array Is Sorted | Strings | Medium | ✅ |
+| 12 | Remove Duplicates from Sorted Array | Strings | Easy | ✅ |
 
 ---
 
@@ -81,7 +82,7 @@ dsa-90-days
 |----------|---------:|
 | Hash Map | 2 |
 | Hash Set | 1 |
-| Two Pointers | 4 |
+| Two Pointers | 5 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
