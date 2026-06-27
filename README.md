@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 5 |
-| Strings | 7 |
-| Total | **12 / 90** |
+| Arrays | 8 |
+| Strings | 5 |
+| Total | **13 / 90** |
 
 ---
 
@@ -48,28 +48,33 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 10 | First Unique Character in a String | Strings | Easy | ✅ |
 | 11 | Two Sum II - Input Array Is Sorted | Strings | Medium | ✅ |
 | 12 | Remove Duplicates from Sorted Array | Strings | Easy | ✅ |
+| 13 | Squares of a Sorted Array | Arrays | Easy | ✅ |
 
 ---
 
 # 📂 Repository Structure
 
 ```
-dsa-90-days
+dsa-90-days/
 │
-├── Arrays
+├── Arrays/
 │   ├── README.md
 │   ├── Day-01-Two-Sum
-│   ├── Day-02-Best-Time-To-Buy-And-Sell-Stock
+│   ├── Day-02-Best-Time-to-Buy-and-Sell-Stock
 │   ├── Day-03-Contains-Duplicate
 │   ├── Day-04-Maximum-Subarray
-│   └── Day-05-Move-Zeroes
+│   ├── Day-05-Move-Zeroes
+│   ├── Day-11-Two-Sum-II
+│   ├── Day-12-Remove-Duplicates-from-Sorted-Array
+│   └── Day-13-Squares-of-a-Sorted-Array
 │
-├── Strings
+├── Strings/
 │   ├── README.md
 │   ├── Day-06-Reverse-String
 │   ├── Day-07-Valid-Palindrome
 │   ├── Day-08-Longest-Common-Prefix
-│   └── Day-09-Valid-Anagram
+│   ├── Day-09-Valid-Anagram
+│   └── Day-10-First-Unique-Character
 │
 └── README.md
 ```
@@ -82,7 +87,7 @@ dsa-90-days
 |----------|---------:|
 | Hash Map | 2 |
 | Hash Set | 1 |
-| Two Pointers | 5 |
+| Two Pointers | 6 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
