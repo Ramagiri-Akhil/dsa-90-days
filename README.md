@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 8 |
+| Arrays | 9 |
 | Strings | 5 |
-| Total | **13 / 90** |
+| Total | **14 / 90** |
 
 ---
 
@@ -49,7 +49,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 11 | Two Sum II - Input Array Is Sorted | Strings | Medium | ✅ |
 | 12 | Remove Duplicates from Sorted Array | Strings | Easy | ✅ |
 | 13 | Squares of a Sorted Array | Arrays | Easy | ✅ |
-
+| 14 | 3Sum | Arrays | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -59,22 +59,37 @@ dsa-90-days/
 │
 ├── Arrays/
 │   ├── README.md
-│   ├── Day-01-Two-Sum
-│   ├── Day-02-Best-Time-to-Buy-and-Sell-Stock
-│   ├── Day-03-Contains-Duplicate
-│   ├── Day-04-Maximum-Subarray
-│   ├── Day-05-Move-Zeroes
-│   ├── Day-11-Two-Sum-II
-│   ├── Day-12-Remove-Duplicates-from-Sorted-Array
-│   └── Day-13-Squares-of-a-Sorted-Array
+│   ├── Day-01-Two-Sum.js
+│   ├── Day-01-Two-Sum.md
+│   ├── Day-02-Best-Time-to-Buy-and-Sell-Stock.js
+│   ├── Day-02-Best-Time-to-Buy-and-Sell-Stock.md
+│   ├── Day-03-Contains-Duplicate.js
+│   ├── Day-03-Contains-Duplicate.md
+│   ├── Day-04-Maximum-Subarray.js
+│   ├── Day-04-Maximum-Subarray.md
+│   ├── Day-05-Move-Zeroes.js
+│   ├── Day-05-Move-Zeroes.md
+│   ├── Day-11-Two-Sum-II.js
+│   ├── Day-11-Two-Sum-II.md
+│   ├── Day-12-Remove-Duplicates-from-Sorted-Array.js
+│   ├── Day-12-Remove-Duplicates-from-Sorted-Array.md
+│   ├── Day-13-Squares-of-a-Sorted-Array.js
+│   ├── Day-13-Squares-of-a-Sorted-Array.md
+│   ├── Day-14-3Sum.js
+│   └── Day-14-3Sum.md
 │
 ├── Strings/
 │   ├── README.md
-│   ├── Day-06-Reverse-String
-│   ├── Day-07-Valid-Palindrome
-│   ├── Day-08-Longest-Common-Prefix
-│   ├── Day-09-Valid-Anagram
-│   └── Day-10-First-Unique-Character
+│   ├── Day-06-Reverse-String.js
+│   ├── Day-06-Reverse-String.md
+│   ├── Day-07-Valid-Palindrome.js
+│   ├── Day-07-Valid-Palindrome.md
+│   ├── Day-08-Longest-Common-Prefix.js
+│   ├── Day-08-Longest-Common-Prefix.md
+│   ├── Day-09-Valid-Anagram.js
+│   ├── Day-09-Valid-Anagram.md
+│   ├── Day-10-First-Unique-Character.js
+│   └── Day-10-First-Unique-Character.md
 │
 └── README.md
 ```
@@ -87,10 +102,11 @@ dsa-90-days/
 |----------|---------:|
 | Hash Map | 2 |
 | Hash Set | 1 |
-| Two Pointers | 6 |
+| Two Pointers | 7 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
+| Sorting | 1 |
 ---
 
 # 📚 Topics Covered

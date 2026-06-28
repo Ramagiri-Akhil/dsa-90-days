@@ -16,6 +16,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 11 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers |
 | 12 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 13 | Squares of a Sorted Array | Easy | Two Pointers |
+| 14 | 3Sum | Medium | Sorting + Two Pointers |
 
 ---
 
