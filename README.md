@@ -22,13 +22,13 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 ---
 
-# 📊 Progress
+## 📊 Progress
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 9 |
+| Arrays | 10 |
 | Strings | 5 |
-| Total | **14 / 90** |
+| Total | **15 / 90** |
 
 ---
 
@@ -50,6 +50,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 12 | Remove Duplicates from Sorted Array | Strings | Easy | ✅ |
 | 13 | Squares of a Sorted Array | Arrays | Easy | ✅ |
 | 14 | 3Sum | Arrays | Medium | ✅ |
+| 15 | Container With Most Water | Arrays | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -76,7 +77,9 @@ dsa-90-days/
 │   ├── Day-13-Squares-of-a-Sorted-Array.js
 │   ├── Day-13-Squares-of-a-Sorted-Array.md
 │   ├── Day-14-3Sum.js
-│   └── Day-14-3Sum.md
+│   ├── Day-14-3Sum.md
+│   ├── Day-15-Container-With-Most-Water.js
+│   └── Day-15-Container-With-Most-Water.md
 │
 ├── Strings/
 │   ├── README.md
@@ -102,7 +105,7 @@ dsa-90-days/
 |----------|---------:|
 | Hash Map | 2 |
 | Hash Set | 1 |
-| Two Pointers | 7 |
+| Two Pointers | 8 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |

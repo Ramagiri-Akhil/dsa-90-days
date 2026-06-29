@@ -17,6 +17,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 12 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 13 | Squares of a Sorted Array | Easy | Two Pointers |
 | 14 | 3Sum | Medium | Sorting + Two Pointers |
+| 15 | Container With Most Water | Medium | Two Pointers |
 
 ---
 
