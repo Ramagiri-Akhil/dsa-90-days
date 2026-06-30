@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 10 |
+| Arrays | 11 |
 | Strings | 5 |
-| Total | **15 / 90** |
+| Total | **16 / 90** |
 
 ---
 
@@ -51,6 +51,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 13 | Squares of a Sorted Array | Arrays | Easy | ✅ |
 | 14 | 3Sum | Arrays | Medium | ✅ |
 | 15 | Container With Most Water | Arrays | Medium | ✅ |
+| 16 | Maximum Average Subarray I | Arrays | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -79,7 +80,9 @@ dsa-90-days/
 │   ├── Day-14-3Sum.js
 │   ├── Day-14-3Sum.md
 │   ├── Day-15-Container-With-Most-Water.js
-│   └── Day-15-Container-With-Most-Water.md
+│   ├── Day-15-Container-With-Most-Water.md
+│   ├── Day-16-Maximum-Average-Subarray-I.js
+│   └── Day-16-Maximum-Average-Subarray-I.md
 │
 ├── Strings/
 │   ├── README.md
@@ -99,13 +102,14 @@ dsa-90-days/
 
 ---
 
-# 🧠 DSA Patterns Learned
+## 🧠 DSA Patterns Learned
 
 | Pattern | Problems |
 |----------|---------:|
 | Hash Map | 2 |
 | Hash Set | 1 |
 | Two Pointers | 8 |
+| Sliding Window | 1 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
