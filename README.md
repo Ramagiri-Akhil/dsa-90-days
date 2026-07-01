@@ -27,8 +27,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Topic | Problems Solved |
 |--------|----------------:|
 | Arrays | 11 |
-| Strings | 5 |
-| Total | **16 / 90** |
+| Strings | 6 |
+| Total | **17 / 90** |
 
 ---
 
@@ -52,6 +52,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 14 | 3Sum | Arrays | Medium | ✅ |
 | 15 | Container With Most Water | Arrays | Medium | ✅ |
 | 16 | Maximum Average Subarray I | Arrays | Easy | ✅ |
+| 17 | Longest Substring Without Repeating Characters | Strings | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -95,7 +96,9 @@ dsa-90-days/
 │   ├── Day-09-Valid-Anagram.js
 │   ├── Day-09-Valid-Anagram.md
 │   ├── Day-10-First-Unique-Character.js
-│   └── Day-10-First-Unique-Character.md
+│   ├── Day-10-First-Unique-Character.md
+│   ├── Day-17-Longest-Substring-Without-Repeating-Characters.js
+│   └── Day-17-Longest-Substring-Without-Repeating-Characters.md
 │
 └── README.md
 ```
@@ -107,9 +110,9 @@ dsa-90-days/
 | Pattern | Problems |
 |----------|---------:|
 | Hash Map | 2 |
-| Hash Set | 1 |
+| Hash Set | 2 |
 | Two Pointers | 8 |
-| Sliding Window | 1 |
+| Sliding Window | 2 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
