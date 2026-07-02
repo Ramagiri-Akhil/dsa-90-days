@@ -20,13 +20,15 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 14 | 3Sum | Medium | Sorting + Two Pointers |
 | 15 | Container With Most Water | Medium | Two Pointers |
 | 16 | Maximum Average Subarray I | Easy | Sliding Window |
+| 18 | Minimum Size Subarray Sum | Medium | Sliding Window |
 
 ---
 
 ## 🎯 Concepts Learned
 
-- Array Traversal
 - Hash Map
 - Hash Set
 - Kadane's Algorithm
 - Two Pointers
+- Sliding Window
+- Sorting

@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 11 |
+| Arrays | 12 |
 | Strings | 6 |
-| Total | **17 / 90** |
+| Total | **18 / 90** |
 
 ---
 
@@ -53,6 +53,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 15 | Container With Most Water | Arrays | Medium | ✅ |
 | 16 | Maximum Average Subarray I | Arrays | Easy | ✅ |
 | 17 | Longest Substring Without Repeating Characters | Strings | Medium | ✅ |
+| 18 | Minimum Size Subarray Sum | Arrays | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -83,7 +84,9 @@ dsa-90-days/
 │   ├── Day-15-Container-With-Most-Water.js
 │   ├── Day-15-Container-With-Most-Water.md
 │   ├── Day-16-Maximum-Average-Subarray-I.js
-│   └── Day-16-Maximum-Average-Subarray-I.md
+│   ├── Day-16-Maximum-Average-Subarray-I.md
+│   ├── Day-18-Minimum-Size-Subarray-Sum.js
+│   └── Day-18-Minimum-Size-Subarray-Sum.md
 │
 ├── Strings/
 │   ├── README.md
@@ -112,7 +115,7 @@ dsa-90-days/
 | Hash Map | 2 |
 | Hash Set | 2 |
 | Two Pointers | 8 |
-| Sliding Window | 2 |
+| Sliding Window | 3 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Frequency Array | 2 |
