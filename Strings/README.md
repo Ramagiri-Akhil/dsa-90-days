@@ -14,6 +14,7 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 | 9 | Valid Anagram | Easy | Hash Map |
 | 10 | First Unique Character in a String | Easy | Frequency Array |
 | 17 | Longest Substring Without Repeating Characters | Medium | Sliding Window + Hash Set |
+| 19 | Permutation in String | Strings | Medium | Sliding Window |
 ---
 
 ## 🎯 Concepts Learned
@@ -24,3 +25,4 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 - Hash Map
 - Frequency Array
 - ASCII Values
+- Sliding Window
