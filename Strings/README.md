@@ -16,6 +16,7 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 | 17 | Longest Substring Without Repeating Characters | Medium | Sliding Window + Hash Set |
 | 19 | Permutation in String | Strings | Medium | Sliding Window |
 | 20 | Find All Anagrams in a String | Medium  | Sliding Window + Frequency Array |
+| 21 | Ransom Note | Easy | Frequency Array |
 ---
 
 ## 🎯 Concepts Learned
