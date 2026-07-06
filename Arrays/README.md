@@ -21,6 +21,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 15 | Container With Most Water | Medium | Two Pointers |
 | 16 | Maximum Average Subarray I | Easy | Sliding Window |
 | 18 | Minimum Size Subarray Sum | Medium | Sliding Window |
+ 22 | Group Anagrams | Medium | HashMap + Frequency Array |
 
 ---
 

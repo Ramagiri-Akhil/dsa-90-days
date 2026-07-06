@@ -27,8 +27,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Topic | Problems Solved |
 |--------|----------------:|
 | Arrays | 12 |
-| Strings | 9 |
-| Total | **21 / 90** |
+| Strings | 10 |
+| Total | **22 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -56,6 +56,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 19 | Permutation in String | Strings | Medium | ✅ |
 | 20 | Find All Anagrams in a String | Strings | Medium | ✅ |
 | 21 | Ransom Note | Strings | Easy | ✅ |
+| 22 | Group Anagrams | Strings | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -88,7 +89,9 @@ dsa-90-days/
 │   ├── Day-16-Maximum-Average-Subarray-I.js
 │   ├── Day-16-Maximum-Average-Subarray-I.md
 │   ├── Day-18-Minimum-Size-Subarray-Sum.js
-│   └── Day-18-Minimum-Size-Subarray-Sum.md
+│   ├── Day-18-Minimum-Size-Subarray-Sum.md
+│   ├── Day-22-Group-Anagrams.js
+│   └── Day-22-Group-Anagrams.md
 │
 ├── Strings/
 │   ├── README.md
@@ -120,11 +123,11 @@ dsa-90-days/
 
 | Pattern | Problems |
 |----------|---------:|
-| Hash Map | 2 |
+| Hash Map | 3 |
 | Hash Set | 2 |
 | Two Pointers | 8 |
 | Sliding Window | 5 |
-| Frequency Array | 5 |
+| Frequency Array | 6 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
 | Sorting | 1 |
