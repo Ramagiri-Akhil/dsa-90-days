@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 14 |
+| Arrays | 15 |
 | Strings | 9 |
-| Total | **23 / 90** |
+| Total | **24 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -58,6 +58,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 21 | Ransom Note | Strings | Easy | ✅ |
 | 22 | Group Anagrams | Strings | Medium | ✅ |
 | 23 | Top K Frequent Elements | Arrays | Medium | ✅ |
+| 24 | Subarray Sum Equals K | Arrays | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -94,7 +95,9 @@ dsa-90-days/
 │   ├── Day-22-Group-Anagrams.js
 │   ├── Day-22-Group-Anagrams.md
 │   ├── Day-23-Top-K-Frequent-Elements.js
-│   └── Day-23-Top-K-Frequent-Elements.md
+│   ├── Day-23-Top-K-Frequent-Elements.md
+│   ├── Day-24-Subarray-Sum-Equals-K.js
+│   └── Day-24-Subarray-Sum-Equals-K.md
 │
 ├── Strings/
 │   ├── README.md
@@ -126,11 +129,12 @@ dsa-90-days/
 
 | Pattern | Problems |
 |----------|---------:|
-| Hash Map | 4 |
+| Hash Map | 5 |
 | Hash Set | 2 |
 | Two Pointers | 8 |
 | Sliding Window | 5 |
 | Frequency Array | 6 |
+| Prefix Sum | 1 |
 | Bucket Sort | 1 |
 | Kadane's Algorithm | 1 |
 | String Traversal | 1 |
