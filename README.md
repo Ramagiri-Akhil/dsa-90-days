@@ -26,9 +26,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 15 |
+| Arrays | 16 |
 | Strings | 9 |
-| Total | **24 / 90** |
+| Total | **25 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -59,6 +59,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 22 | Group Anagrams | Strings | Medium | ✅ |
 | 23 | Top K Frequent Elements | Arrays | Medium | ✅ |
 | 24 | Subarray Sum Equals K | Arrays | Medium | ✅ |
+| 25 | Longest Consecutive Sequence | Arrays | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -97,7 +98,9 @@ dsa-90-days/
 │   ├── Day-23-Top-K-Frequent-Elements.js
 │   ├── Day-23-Top-K-Frequent-Elements.md
 │   ├── Day-24-Subarray-Sum-Equals-K.js
-│   └── Day-24-Subarray-Sum-Equals-K.md
+│   ├── Day-24-Subarray-Sum-Equals-K.md
+│   ├── Day-25-Longest-Consecutive-Sequence.js
+│   └── Day-25-Longest-Consecutive-Sequence.md
 │
 ├── Strings/
 │   ├── README.md
@@ -130,7 +133,7 @@ dsa-90-days/
 | Pattern | Problems |
 |----------|---------:|
 | Hash Map | 5 |
-| Hash Set | 2 |
+| Hash Set | 3 |
 | Two Pointers | 8 |
 | Sliding Window | 5 |
 | Frequency Array | 6 |
