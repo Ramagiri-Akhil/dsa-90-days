@@ -28,7 +28,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 16 |
 | Strings | 9 |
-| Total | **25 / 90** |
+| Linked Lists | 1 |
+| **Total** | **26 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -60,6 +61,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 23 | Top K Frequent Elements | Arrays | Medium | ✅ |
 | 24 | Subarray Sum Equals K | Arrays | Medium | ✅ |
 | 25 | Longest Consecutive Sequence | Arrays | Medium | ✅ |
+| 26 | Reverse Linked List | Linked Lists | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -122,6 +124,11 @@ dsa-90-days/
 │   ├── Day-20-Find-All-Anagrams-in-a-String.md
 │   ├── Day-21-Ransom-Note.js
 │   └── Day-21-Ransom-Note.md
+|
+├── Linked-Lists/
+│   ├── README.md
+│   ├── Day-26-Reverse-Linked-List.js
+│   └── Day-26-Reverse-Linked-List.md
 │
 └── README.md
 ```
@@ -139,14 +146,16 @@ dsa-90-days/
 | Frequency Array | 6 |
 | Prefix Sum | 1 |
 | Bucket Sort | 1 |
+| Pointer Manipulation | 1 |
 | Kadane's Algorithm | 1 |
-| String Traversal | 1 |
 | Sorting | 1 |
+| String Traversal | 1 |
 
 # 📚 Topics Covered
 
 - ✅ Arrays
 - ✅ Strings
+- ✅ Linked Lists
 
 🚧 Upcoming Topics
 
