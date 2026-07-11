@@ -1,4 +1,4 @@
-# Linked List
+# Linked Lists
 
 This folder contains solutions to Linked List problems solved during my **90-Day DSA Challenge**.
 
@@ -7,13 +7,14 @@ This folder contains solutions to Linked List problems solved during my **90-Day
 | Day | Problem | Difficulty | Pattern | Solution |
 |-----:|---------|:----------:|---------|----------|
 | 26 | Reverse Linked List | Easy | Pointer Manipulation | [View](./Day-26-Reverse-Linked-List.md) |
+| 27 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers | [View](./Day-27-Merge-Two-Sorted-Lists.md) |
 
 ---
 
 ## 📈 Summary
 
-- **Total Linked List Problems:** 1
-- **Easy:** 1
+- **Total Linked List Problems:** 2
+- **Easy:** 2
 - **Medium:** 0
 - **Hard:** 0
 
@@ -22,11 +23,7 @@ This folder contains solutions to Linked List problems solved during my **90-Day
 ## 🧠 Concepts Learned
 
 - Pointer Manipulation
-- Singly Linked List
-- In-place Reversal
-- Iterative Approach
-- Constant Space Optimization
-
----
-
-More Linked List problems will be added as I progress through the challenge.
+- Dummy Node
+- Two Pointers
+- In-place Linked List Operations
+- Iterative Traversal
