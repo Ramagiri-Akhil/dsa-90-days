@@ -9,13 +9,14 @@ This folder contains solutions to Linked List problems solved during my **90-Day
 | 26 | Reverse Linked List | Easy | Pointer Manipulation | [View](./Day-26-Reverse-Linked-List.md) |
 | 27 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers | [View](./Day-27-Merge-Two-Sorted-Lists.md) |
 | 28 | Linked List Cycle | Easy | Floyd's Cycle Detection (Fast & Slow Pointers) | [View](./Day-28-Linked-List-Cycle.md) |
+| 29 | Middle of the Linked List | Easy | Fast & Slow Pointers | [View](./Day-29-Middle-of-the-Linked-List.md) |
 
 ---
 
 ## 📈 Summary
 
-- **Total Linked List Problems:** 3
-- **Easy:** 3
+- **Total Linked List Problems:** 4
+- **Easy:** 4
 - **Medium:** 0
 - **Hard:** 0
 
@@ -25,7 +26,8 @@ This folder contains solutions to Linked List problems solved during my **90-Day
 
 - Pointer Manipulation
 - Dummy Node
-- Two Pointers
-- Fast & Slow Pointers (Floyd's Algorithm)
+- Fast & Slow Pointers
+- Floyd's Cycle Detection
 - Cycle Detection
+- Finding the Middle Node
 - In-place Linked List Operations

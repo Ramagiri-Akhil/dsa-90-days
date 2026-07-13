@@ -28,8 +28,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 16 |
 | Strings | 9 |
-| Linked Lists | 3 |
-| **Total** | **28 / 90** |
+| Linked Lists | 4 |
+| **Total** | **29 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -64,6 +64,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 26 | Reverse Linked List | Linked Lists | Easy | ✅ |
 | 27 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers |✅|
 | 28 | Linked List Cycle | Linked Lists | Easy | ✅ |
+| 29 | Middle of the Linked List | Linked Lists | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -134,7 +135,9 @@ dsa-90-days/
 │   ├── Day-27-Merge-Two-Sorted-Lists.js
 │   ├── Day-27-Merge-Two-Sorted-Lists.md
 │   ├── Day-28-Linked-List-Cycle.js
-│   └── Day-28-Linked-List-Cycle.md
+│   ├── Day-28-Linked-List-Cycle.md
+│   ├── Day-29-Middle-of-the-Linked-List.js
+│   └── Day-29-Middle-of-the-Linked-List.md
 │
 └── README.md
 ```
@@ -147,12 +150,12 @@ dsa-90-days/
 |----------|---------:|
 | Hash Map | 5 |
 | Hash Set | 3 |
-| Two Pointers | 10 |
+| Two Pointers | 11 |
 | Sliding Window | 5 |
 | Frequency Array | 6 |
 | Prefix Sum | 1 |
 | Bucket Sort | 1 |
-| Pointer Manipulation | 3 |
+| Pointer Manipulation | 4 |
 | Dummy Node | 1 |
 | Floyd's Cycle Detection | 1 |
 | Kadane's Algorithm | 1 |
