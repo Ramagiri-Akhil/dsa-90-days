@@ -29,7 +29,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Arrays | 16 |
 | Strings | 9 |
 | Linked Lists | 5 |
-| **Total** | **30 / 90** |
+| Stacks | 1 |
+| **Total** | **31 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -66,6 +67,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 28 | Linked List Cycle | Linked Lists | Easy | ✅ |
 | 29 | Middle of the Linked List | Linked Lists | Easy | ✅ |
 | 30 | Remove Nth Node From End of List | Linked Lists | Medium | ✅ |
+| 31 | Valid Parentheses | Stacks | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -141,6 +143,10 @@ dsa-90-days/
 │   ├── Day-29-Middle-of-the-Linked-List.md
 │   ├── Day-30-Remove-Nth-Node-From-End-of-List.js
 │   └── Day-30-Remove-Nth-Node-From-End-of-List.md
+├── Stacks/
+│   ├── README.md
+│   ├── Day-31-Valid-Parentheses.js
+│   └── Day-31-Valid-Parentheses.md
 │
 └── README.md
 ```
@@ -162,6 +168,7 @@ dsa-90-days/
 | Dummy Node | 2 |
 | Fast & Slow Pointers | 3 |
 | Floyd's Cycle Detection | 1 |
+| Stack | 1 |
 | Kadane's Algorithm | 1 |
 | Sorting | 1 |
 | String Traversal | 1 |
@@ -171,6 +178,7 @@ dsa-90-days/
 - ✅ Arrays
 - ✅ Strings
 - ✅ Linked Lists
+- ✅ Stacks
 
 🚧 Upcoming Topics
 
