@@ -29,8 +29,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Arrays | 16 |
 | Strings | 9 |
 | Linked Lists | 5 |
-| Stacks | 2 |
-| **Total** | **32 / 90** |
+| Stacks | 3 |
+| **Total** | **33 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -69,6 +69,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 30 | Remove Nth Node From End of List | Linked Lists | Medium | ✅ |
 | 31 | Valid Parentheses | Stacks | Easy | ✅ |
 | 32 | Min Stack | Stacks | Medium | ✅ |
+| 33 | Daily Temperatures | Stacks | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -149,7 +150,9 @@ dsa-90-days/
 │   ├── Day-31-Valid-Parentheses.js
 │   ├── Day-31-Valid-Parentheses.md
 │   ├── Day-32-Min-Stack.js
-│   └── Day-32-Min-Stack.md
+│   ├── Day-32-Min-Stack.md
+│   ├── Day-33-Daily-Temperatures.js
+│   └── Day-33-Daily-Temperatures.md
 │
 └── README.md
 ```
@@ -171,7 +174,7 @@ dsa-90-days/
 | Dummy Node | 2 |
 | Fast & Slow Pointers | 3 |
 | Floyd's Cycle Detection | 1 |
-| Stack | 2 |
+| Stack | 3 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
