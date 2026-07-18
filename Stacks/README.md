@@ -9,14 +9,15 @@ This folder contains solutions to Stack problems solved during my **90-Day DSA C
 | 31 | Valid Parentheses | Easy | Stack | [View](./Day-31-Valid-Parentheses.md) |
 | 32 | Min Stack | Medium | Stack Design, Two Stacks | [View](./Day-32-Min-Stack.md) |
 | 33 | Daily Temperatures | Medium | Monotonic Stack |  [View](./Day-33-Daily-Temperatures.md) |
+| 34 | Evaluate Reverse Polish Notation | Medium | Stack Simulation | [View](./Day-34-Evaluate-Reverse-Polish-Notation.md) |
 
 ---
 
 ## 📈 Summary
 
-- **Total Stack Problems:** 3
+- **Total Stack Problems:** 4
 - **Easy:** 1
-- **Medium:** 2
+- **Medium:** 3
 - **Hard:** 0
 
 ---
