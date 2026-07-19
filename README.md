@@ -29,8 +29,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Arrays | 16 |
 | Strings | 9 |
 | Linked Lists | 5 |
-| Stacks | 4 |
-| **Total** | **34 / 90** |
+| Stacks | 5 |
+| **Total** | **35 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -71,6 +71,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 32 | Min Stack | Stacks | Medium | ✅ |
 | 33 | Daily Temperatures | Stacks | Medium | ✅ |
 | 34 | Evaluate Reverse Polish Notation | Stacks | Medium | ✅ |
+| 35 | Next Greater Element I | Stacks | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -155,7 +156,9 @@ dsa-90-days/
 │   ├── Day-33-Daily-Temperatures.js
 │   ├── Day-33-Daily-Temperatures.md
 │   ├── Day-34-Evaluate-Reverse-Polish-Notation.js
-│   └── Day-34-Evaluate-Reverse-Polish-Notation.md
+│   ├── Day-34-Evaluate-Reverse-Polish-Notation.md
+│   ├── Day-35-Next-Greater-Element-I.js
+│   └── Day-35-Next-Greater-Element-I.md
 │
 └── README.md
 ```
@@ -177,7 +180,7 @@ dsa-90-days/
 | Dummy Node | 2 |
 | Fast & Slow Pointers | 3 |
 | Floyd's Cycle Detection | 1 |
-| Stack | 4 |
+| Stack | 5 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
