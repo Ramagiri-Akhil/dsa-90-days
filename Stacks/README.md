@@ -11,13 +11,14 @@ This folder contains solutions to Stack problems solved during my **90-Day DSA C
 | 33 | Daily Temperatures | Medium | Monotonic Stack |  [View](./Day-33-Daily-Temperatures.md) |
 | 34 | Evaluate Reverse Polish Notation | Medium | Stack Simulation | [View](./Day-34-Evaluate-Reverse-Polish-Notation.md) |
 | 35 | Next Greater Element - I | Easy | Stack Simulation | [View](./Day-35-Next-Greater-Element-I.md) |
+| 36 | Implement Queue using Stacks | Easy | Two Stacks | [View](./Day-36-Implement-Queue-using-Stacks.md) |
 
 ---
 
 ## 📈 Summary
 
-- **Total Stack Problems:** 5
-- **Easy:** 2
+- **Total Stack Problems:** 6
+- **Easy:** 3
 - **Medium:** 3
 - **Hard:** 0
 
