@@ -30,7 +30,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Strings | 9 |
 | Linked Lists | 5 |
 | Stacks | 6 |
-| **Total** | **36 / 90** |
+| Queues | 2 |
+| **Total** | **37 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -73,6 +74,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 34 | Evaluate Reverse Polish Notation | Stacks | Medium | ✅ |
 | 35 | Next Greater Element I | Stacks | Easy | ✅ |
 | 36 | Implement Queue using Stacks | Stacks | Easy | ✅ |
+| 37 | NUmber of Recent calls | Stacks | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -159,9 +161,13 @@ dsa-90-days/
 │   ├── Day-34-Evaluate-Reverse-Polish-Notation.js
 │   ├── Day-34-Evaluate-Reverse-Polish-Notation.md
 │   ├── Day-35-Next-Greater-Element-I.js
-│   ├── Day-35-Next-Greater-Element-I.md
+│   └── Day-35-Next-Greater-Element-I.md
+├── Queues/
+│   ├── README.md
 │   ├── Day-36-Implement-Queue-using-Stacks.js
-│   └── Day-36-Implement-Queue-using-Stacks.md
+│   ├── Day-36-Implement-Queue-using-Stacks.md
+│   ├── Day-37-Number-of-Recent-Calls.js
+│   └── Day-37-Number-of-Recent-Calls.md
 │
 └── README.md
 ```
@@ -184,6 +190,7 @@ dsa-90-days/
 | Fast & Slow Pointers | 3 |
 | Floyd's Cycle Detection | 1 |
 | Stack | 6 |
+| Queue | 2 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
@@ -196,12 +203,10 @@ dsa-90-days/
 - ✅ Strings
 - ✅ Linked Lists
 - ✅ Stacks
+- ✅ Queues
 
 🚧 Upcoming Topics
 
-- Sliding Window
-- Stack
-- Queue
 - Linked List
 - Binary Search
 - Trees
