@@ -31,7 +31,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Linked Lists | 5 |
 | Stacks | 6 |
 | Queues | 2 |
-| **Total** | **37 / 90** |
+| Binary Search | 1 |
+| **Total** | **38 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -75,6 +76,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 35 | Next Greater Element I | Stacks | Easy | ✅ |
 | 36 | Implement Queue using Stacks | Stacks | Easy | ✅ |
 | 37 | NUmber of Recent calls | Stacks | Easy | ✅ |
+| 38 | Binary Search | Binary Search | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -168,6 +170,10 @@ dsa-90-days/
 │   ├── Day-36-Implement-Queue-using-Stacks.md
 │   ├── Day-37-Number-of-Recent-Calls.js
 │   └── Day-37-Number-of-Recent-Calls.md
+├── Binary Search/
+│   ├── README.md
+│   ├── Day-38-Binary-Search.js
+│   ├── Day-38-Binary-Search.js
 │
 └── README.md
 ```
@@ -191,6 +197,7 @@ dsa-90-days/
 | Floyd's Cycle Detection | 1 |
 | Stack | 6 |
 | Queue | 2 |
+| Binary Search | 1 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
