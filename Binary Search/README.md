@@ -10,7 +10,8 @@ Binary Search is one of the most fundamental searching algorithms. It works on *
 
 | Day | Problem | Difficulty | Solution |
 |-----|---------|------------|----------|
-| Day 38 | Binary Search (LeetCode #704) | Easy | ✅ |
+| Day 38 | Binary Search  | Easy | ✅ |
+| Day 39 | Search insert Position  | Easy | ✅ |
 
 ---
 
@@ -26,25 +27,9 @@ Binary Search is one of the most fundamental searching algorithms. It works on *
 
 ---
 
-## Time Complexity
-
-| Operation | Complexity |
-|-----------|------------|
-| Binary Search | **O(log n)** |
-
----
-
-## Space Complexity
-
-| Approach | Complexity |
-|----------|------------|
-| Iterative Binary Search | **O(1)** |
-
----
 
 ## Upcoming Problems
 
-- Search Insert Position (#35)
 - First Bad Version (#278)
 - Guess Number Higher or Lower (#374)
 - Find Smallest Letter Greater Than Target (#744)

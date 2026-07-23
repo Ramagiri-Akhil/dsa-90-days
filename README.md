@@ -31,8 +31,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Linked Lists | 5 |
 | Stacks | 6 |
 | Queues | 2 |
-| Binary Search | 1 |
-| **Total** | **38 / 90** |
+| Binary Search | 2 |
+| **Total** | **39 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -77,6 +77,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 36 | Implement Queue using Stacks | Stacks | Easy | ✅ |
 | 37 | NUmber of Recent calls | Stacks | Easy | ✅ |
 | 38 | Binary Search | Binary Search | Easy | ✅ |
+| 39 | Search insert Position | Binary Search | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -173,7 +174,9 @@ dsa-90-days/
 ├── Binary Search/
 │   ├── README.md
 │   ├── Day-38-Binary-Search.js
-│   ├── Day-38-Binary-Search.js
+│   ├── Day-38-Binary-Search.md
+│   ├── Day-39-Search-Insert-Position.js
+│   └── Day-39-Search-Insert-Position.md
 │
 └── README.md
 ```
@@ -197,7 +200,7 @@ dsa-90-days/
 | Floyd's Cycle Detection | 1 |
 | Stack | 6 |
 | Queue | 2 |
-| Binary Search | 1 |
+| Binary Search | 2 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
@@ -214,8 +217,6 @@ dsa-90-days/
 
 🚧 Upcoming Topics
 
-- Linked List
-- Binary Search
 - Trees
 - Graphs
 - Heap
