@@ -12,6 +12,7 @@ Binary Search is one of the most fundamental searching algorithms. It works on *
 |-----|---------|------------|----------|
 | Day 38 | Binary Search  | Easy | ✅ |
 | Day 39 | Search insert Position  | Easy | ✅ |
+| Day 40 | Find Minimum in Rotated Sorted Array  | Medium | ✅ |
 
 ---
 

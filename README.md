@@ -31,8 +31,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Linked Lists | 5 |
 | Stacks | 6 |
 | Queues | 2 |
-| Binary Search | 2 |
-| **Total** | **39 / 90** |
+| Binary Search | 3 |
+| **Total** | **40 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -78,6 +78,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 37 | NUmber of Recent calls | Stacks | Easy | ✅ |
 | 38 | Binary Search | Binary Search | Easy | ✅ |
 | 39 | Search insert Position | Binary Search | Easy | ✅ |
+| 40 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -176,7 +177,9 @@ dsa-90-days/
 │   ├── Day-38-Binary-Search.js
 │   ├── Day-38-Binary-Search.md
 │   ├── Day-39-Search-Insert-Position.js
-│   └── Day-39-Search-Insert-Position.md
+│   ├── Day-39-Search-Insert-Position.md
+│   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.js
+│   └── Day-40-Find-Minimum-in-Rotated-Sorted-Array.md
 │
 └── README.md
 ```
@@ -200,7 +203,7 @@ dsa-90-days/
 | Floyd's Cycle Detection | 1 |
 | Stack | 6 |
 | Queue | 2 |
-| Binary Search | 2 |
+| Binary Search | 3 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
