@@ -173,16 +173,16 @@ dsa-90-days/
 │   ├── Day-36-Implement-Queue-using-Stacks.md
 │   ├── Day-37-Number-of-Recent-Calls.js
 │   └── Day-37-Number-of-Recent-Calls.md
-Binary Search/
-├── README.md
-├── Day-38-Binary-Search.js
-├── Day-38-Binary-Search.md
-├── Day-39-Search-Insert-Position.js
-├── Day-39-Search-Insert-Position.md
-├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.js
-├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.md
-├── Day-41-Search-in-Rotated-Sorted-Array.js
-└── Day-41-Search-in-Rotated-Sorted-Array.md
+├── Binary Search/
+│   ├── README.md
+│   ├── Day-38-Binary-Search.js
+│   ├── Day-38-Binary-Search.md
+│   ├── Day-39-Search-Insert-Position.js
+│   ├── Day-39-Search-Insert-Position.md
+│   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.js
+│   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.md
+│   ├── Day-41-Search-in-Rotated-Sorted-Array.js
+│   └── Day-41-Search-in-Rotated-Sorted-Array.md
 │
 └── README.md
 ```
