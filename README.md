@@ -31,8 +31,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Linked Lists | 5 |
 | Stacks | 6 |
 | Queues | 2 |
-| Binary Search | 4 |
-| **Total** | **41 / 90** |
+| Binary Search | 5 |
+| **Total** | **42 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -80,6 +80,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 39 | Search insert Position | Binary Search | Easy | ✅ |
 | 40 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ |
+| 41 | Koko Eating Banana's| Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -182,7 +183,9 @@ dsa-90-days/
 │   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.js
 │   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.md
 │   ├── Day-41-Search-in-Rotated-Sorted-Array.js
-│   └── Day-41-Search-in-Rotated-Sorted-Array.md
+│   ├── Day-41-Search-in-Rotated-Sorted-Array.md
+│   ├── Day-42-Koko-Eating-Bananas.js
+│   └── Day-42-Koko-Eating-Bananas.md
 │
 └── README.md
 ```
@@ -206,7 +209,7 @@ dsa-90-days/
 | Floyd's Cycle Detection | 1 |
 | Stack | 6 |
 | Queue | 2 |
-| Binary Search | 4 |
+| Binary Search | 5 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |

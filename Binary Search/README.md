@@ -14,6 +14,7 @@ Binary Search is one of the most fundamental searching algorithms. It works on *
 | Day 39 | Search insert Position  | Easy | ✅ |
 | Day 40 | Find Minimum in Rotated Sorted Array  | Medium | ✅ |
 | Day 40 | Serach in Rotated Sorted Array  | Medium | ✅ |
+| Day 41 | Koko Eating Banana's| Medium | ✅ |
 
 ---
 
