@@ -32,7 +32,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 6 |
 | Queues | 2 |
 | Binary Search | 5 |
-| **Total** | **42 / 90** |
+| Intervals | 1 |
+| **Total** | **43 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -81,6 +82,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 40 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Koko Eating Banana's| Medium | ✅ |
+| 42 | Merge Intervals | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -186,6 +188,10 @@ dsa-90-days/
 │   ├── Day-41-Search-in-Rotated-Sorted-Array.md
 │   ├── Day-42-Koko-Eating-Bananas.js
 │   └── Day-42-Koko-Eating-Bananas.md
+├── Intervals/
+│   ├── README.md
+│   ├── Day-43-Merge-Intervals.js
+│   └── Day-43-Merge-Intervals.md
 │
 └── README.md
 ```
@@ -210,6 +216,7 @@ dsa-90-days/
 | Stack | 6 |
 | Queue | 2 |
 | Binary Search | 5 |
+| Merge intervals | 1 |
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
