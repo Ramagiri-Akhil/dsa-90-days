@@ -33,7 +33,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Queues | 2 |
 | Binary Search | 5 |
 | Intervals | 1 |
-| **Total** | **43 / 90** |
+| Two Pointers | 1 |
+| **Total** | **44 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -83,6 +84,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 41 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Koko Eating Banana's| Medium | ✅ |
 | 42 | Merge Intervals | Medium | ✅ |
+| 43 | Two Pointers | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -192,6 +194,10 @@ dsa-90-days/
 │   ├── README.md
 │   ├── Day-43-Merge-Intervals.js
 │   └── Day-43-Merge-Intervals.md
+├── Two Pointers/
+│   ├── README.md
+│   ├── Day-44-Sort-Colors.js
+│   └── Day-44-Sort-Colors.md
 │
 └── README.md
 ```
@@ -220,7 +226,7 @@ dsa-90-days/
 | Stack Design | 1 |
 | Auxiliary Stack | 1 |
 | Kadane's Algorithm | 1 |
-| Sorting | 1 |
+| Sorting | 2 |
 | String Traversal | 1 |
 
 # 📚 Topics Covered
