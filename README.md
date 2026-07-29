@@ -34,7 +34,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Binary Search | 5 |
 | Intervals | 1 |
 | Two Pointers | 1 |
-| **Total** | **44 / 90** |
+| Dynamic Programming | 1 |
+| **Total** | **45 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -82,9 +83,10 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 39 | Search insert Position | Binary Search | Easy | ✅ |
 | 40 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ |
-| 41 | Koko Eating Banana's| Medium | ✅ |
-| 42 | Merge Intervals | Medium | ✅ |
-| 43 | Two Pointers | Medium | ✅ |
+| 42 | Koko Eating Banana's| Medium | ✅ |
+| 43 | Merge Intervals | Medium | ✅ |
+| 44 | Two Pointers | Medium | ✅ |
+| 45 | Dynamic Programming | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -198,6 +200,10 @@ dsa-90-days/
 │   ├── README.md
 │   ├── Day-44-Sort-Colors.js
 │   └── Day-44-Sort-Colors.md
+├── Dynamic Programming/
+│   ├── README.md
+│   ├── Day-45-Fibonacci-Number.js
+│   └── Day-45-Fibonacci-Number.md
 │
 └── README.md
 ```
@@ -228,6 +234,7 @@ dsa-90-days/
 | Kadane's Algorithm | 1 |
 | Sorting | 2 |
 | String Traversal | 1 |
+| Dynamic Programming | 1 |
 
 # 📚 Topics Covered
 
@@ -242,7 +249,6 @@ dsa-90-days/
 - Trees
 - Graphs
 - Heap
-- Dynamic Programming
 
 ---
 
