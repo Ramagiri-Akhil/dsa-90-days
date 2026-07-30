@@ -35,7 +35,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Intervals | 1 |
 | Two Pointers | 1 |
 | Dynamic Programming | 1 |
-| **Total** | **45 / 90** |
+| Bit Manipulation | 1 |
+| **Total** | **46 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -87,6 +88,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 43 | Merge Intervals | Medium | ✅ |
 | 44 | Two Pointers | Medium | ✅ |
 | 45 | Dynamic Programming | Easy | ✅ |
+| 46 | Bit Manipulation | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -204,6 +206,10 @@ dsa-90-days/
 │   ├── README.md
 │   ├── Day-45-Fibonacci-Number.js
 │   └── Day-45-Fibonacci-Number.md
+├── Bit Manipulation/
+│   ├── README.md
+│   ├── Day-46-Power-of-Two.js
+│   └── Day-46-Power-of-Two.md
 │
 └── README.md
 ```
@@ -234,7 +240,7 @@ dsa-90-days/
 | Kadane's Algorithm | 1 |
 | Sorting | 2 |
 | String Traversal | 1 |
-| Dynamic Programming | 1 |
+| Dynamic Programming | 2 |
 
 # 📚 Topics Covered
 
