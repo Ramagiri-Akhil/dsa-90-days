@@ -36,8 +36,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Two Pointers | 1 |
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
-| Back Tracking | 1 |
-| **Total** | **47 / 90** |
+| Back Tracking | 2 |
+| **Total** | **48 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -90,7 +90,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 44 | Two Pointers | Medium | ✅ |
 | 45 | Dynamic Programming | Easy | ✅ |
 | 46 | Power of Two | Easy | ✅ |
-| 47 | Subsets  | Easy | ✅ |
+| 47 | Subsets  | Medium | ✅ |
+| 48 | Permutations  | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -213,9 +214,11 @@ dsa-90-days/
 │   ├── Day-46-Power-of-Two.js
 │   └── Day-46-Power-of-Two.md
 ├── Backtracking/
-├── README.md
-├── Day-47-Subsets.js
-└── Day-47-Subsets.md
+│   ├── README.md
+│   ├── Day-47-Subsets.js
+│   ├── Day-47-Subsets.md
+│   ├── Day-48-Permutations.js
+│   └── Day-48-Permutations.md
 │
 └── README.md
 ```
@@ -246,7 +249,7 @@ dsa-90-days/
 | Kadane's Algorithm | 1 |
 | Sorting | 2 |
 | String Traversal | 1 |
-| Back Tracking | 1 |
+| Back Tracking | 2 |
 | Dynamic Programming | 2 |
 
 # 📚 Topics Covered

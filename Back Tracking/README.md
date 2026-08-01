@@ -7,6 +7,7 @@ Backtracking is a recursive technique used to explore all possible solutions by 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | 47 | Subsets | Medium |
+| 48 | Permutations | Medium |
 
 ## Concepts Learned
 
