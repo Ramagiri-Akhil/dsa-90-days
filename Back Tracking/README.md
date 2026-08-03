@@ -9,6 +9,7 @@ Backtracking is a recursive technique used to explore all possible solutions by 
 | 47 | Subsets | Medium |
 | 48 | Permutations | Medium |
 | 49 | Combination Sum | Medium |
+| 50 | Word Search | Medium |
 
 ## Concepts Learned
 
@@ -21,11 +22,14 @@ Backtracking is a recursive technique used to explore all possible solutions by 
 - Permutation Generation
 - Reusing the Same Element
 - Pruning Invalid Paths
+- DFS on a 2D Grid
+- Grid Traversal (Up, Down, Left, Right)
+- Mark & Restore (Visited Cells)
 
 ## Upcoming Problems
 
 - Combination Sum II
-- Letter Combinations of a Phone Number
 - Palindrome Partitioning
 - N-Queens
-- Word Search
+- Letter Combinations of a Phone Number
+- Sudoku Solver
