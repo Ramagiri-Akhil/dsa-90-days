@@ -37,7 +37,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| **Total** | **50 / 90** |
+| Trees | 1 |
+| **Total** | **51 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -94,6 +95,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 48 | Permutations  | Medium | ✅ |
 | 49 | Combination Sum  | Medium | ✅ |
 | 50 | Word Search  | Medium | ✅ |
+| 51 | Invert Binary Tree  | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -225,6 +227,10 @@ dsa-90-days/
 │   ├── Day-49-Combination-Sum.md
 │   ├── Day-50-Word-Search.js
 │   └── Day-50-Word-Search.md
+├── Trees/
+│   ├── README.md
+│   ├── Day-51-Invert-Binary-Tree.js
+│   └── Day-51-Invert-Binary-Tree.md
 │
 └── README.md
 ```
@@ -257,6 +263,7 @@ dsa-90-days/
 | String Traversal | 1 |
 | Back Tracking | 3 |
 | Dynamic Programming | 3 |
+| Trees  | 1 |
 
 # 📚 Topics Covered
 
@@ -268,7 +275,6 @@ dsa-90-days/
 
 🚧 Upcoming Topics
 
-- Trees
 - Graphs
 - Heap
 
