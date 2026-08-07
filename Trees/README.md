@@ -9,6 +9,7 @@ A Tree is a hierarchical data structure consisting of nodes connected by edges. 
 | 51 | Invert Binary Tree | Easy |
 | 52 | Maximum Depth of Binary Tree | Easy |
 | 53 | Diameter of Binary Tree | Easy |
+| 54 | Balanced Binary Tree | Easy |
 
 ## Concepts Learned
 
@@ -17,19 +18,20 @@ A Tree is a hierarchical data structure consisting of nodes connected by edges. 
 - Depth First Search (DFS)
 - Recursion
 - Base Case (`root === null`)
-- Swapping Child Nodes
-- Recursive Tree Traversal
-- Tree Height / Maximum Depth
+- Tree Height Calculation
 - Post-order DFS
 - Recursive Return Values
-- Diameter of a Binary Tree
 - Global Variable in Recursion
+- Diameter of Binary Tree
+- Height-Balanced Trees
+- Early Exit Optimization
+- Special Return Value (`-1`)
 
 ## Upcoming Problems
 
 - Same Tree
 - Symmetric Tree
-- Balanced Binary Tree
 - Binary Tree Level Order Traversal
 - Path Sum
 - Lowest Common Ancestor
+- Binary Tree Right Side View
