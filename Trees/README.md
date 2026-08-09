@@ -11,6 +11,7 @@ A Tree is a hierarchical data structure consisting of nodes connected by edges. 
 | 53 | Diameter of Binary Tree | Easy |
 | 54 | Balanced Binary Tree | Easy |
 | 55 | Same Tree | Easy |
+| 56 | Binary Tree Level Order Traversal | Medium |
 
 ## Concepts Learned
 
@@ -31,11 +32,11 @@ A Tree is a hierarchical data structure consisting of nodes connected by edges. 
 - Simultaneous DFS
 - Recursive Tree Comparison
 - Boolean Recursion
+- Binary Tree Level Order Traversal
 
 ## Upcoming Problems
 
 - Symmetric Tree
-- Binary Tree Level Order Traversal
 - Path Sum
 - Lowest Common Ancestor
 - Binary Tree Right Side View

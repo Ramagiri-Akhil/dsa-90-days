@@ -37,8 +37,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 5 |
-| **Total** | **55 / 90** |
+| Trees | 6 |
+| **Total** | **56 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -100,6 +100,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 53 | Diameter of Binary Tree  | Easy | ✅ |
 | 54 | Balanced Binary Tree  | Easy | ✅ |
 | 55 | Same Binary Tree  | Easy | ✅ |
+| 56 | Binary Tree Level Order Traversal | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -242,7 +243,9 @@ dsa-90-days/
 │   ├── Day-54-Balanced-Binary-Tree.js
 │   ├── Day-54-Balanced-Binary-Tree.md
 │   ├── Day-55-Same-Tree.js
-│   └── Day-55-Same-Tree.md
+│   ├── Day-55-Same-Tree.md
+│   ├── Day-56-Binary-Tree-Level-Order-Traversal.js
+│   └── Day-56-Binary-Tree-Level-Order-Traversal.md
 │
 └── README.md
 ```
