@@ -12,6 +12,7 @@ A Tree is a hierarchical data structure consisting of nodes connected by edges. 
 | 54 | Balanced Binary Tree | Easy |
 | 55 | Same Tree | Easy |
 | 56 | Binary Tree Level Order Traversal | Medium |
+| 57 | Minimum Depth of Binary Tree | Easy |
 
 ## Concepts Learned
 
