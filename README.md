@@ -38,8 +38,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
 | Trees | 7 |
-| Grid | 1 |
-| **Total** | **58 / 90** |
+| Grid | 2 |
+| **Total** | **59 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -104,6 +104,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 56 | Binary Tree Level Order Traversal | Medium | ✅ |
 | 57 | Minimum Depth of Binary Tree | Medium | ✅ |
 | 58 | Rotting Oranges | Medium | ✅ |
+| 58 | Number of Islands | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -253,7 +254,11 @@ dsa-90-days/
 │   └── Day-57-Minimum-Depth-of-Binary-Tree.md
 │
 ├── Grids/
-│   └── Day-58-Rotting-Oranges.js
+│   ├── README.md
+│   ├── Day-58-Rotting-Oranges.js
+│   ├── Day-58-Rotting-Oranges.md
+│   ├── Day-59-Number-of-Islands.js
+│   └── Day-59-Number-of-Islands.md
 │
 └── README.md
 ```
