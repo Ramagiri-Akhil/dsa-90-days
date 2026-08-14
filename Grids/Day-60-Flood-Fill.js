@@ -2,7 +2,7 @@ function isFilled(image, sr, sc, color) {
     const rows = image.length;
     const cols = image[0].length;
     const originalColor = image[sr][sc];
-    if (originalColor === color) return true;
+    if (originalColor === color) return image;
 
     function dfs(row, col) {
         if (
