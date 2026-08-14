@@ -1,43 +1,41 @@
 # Trees
 
-A Tree is a hierarchical data structure consisting of nodes connected by edges. In a Binary Tree, each node has at most two children: a left child and a right child.
+This folder contains binary tree and tree-based DSA problems solved as part of my **90-Day DSA Challenge**.
+
+The problems focus on tree traversal, recursion, DFS, BFS, binary tree properties, and common tree problem-solving patterns.
+
+---
 
 ## Problems Solved
 
-| Day | Problem | Difficulty |
-|-----|---------|------------|
-| 51 | Invert Binary Tree | Easy |
-| 52 | Maximum Depth of Binary Tree | Easy |
-| 53 | Diameter of Binary Tree | Easy |
-| 54 | Balanced Binary Tree | Easy |
-| 55 | Same Tree | Easy |
-| 56 | Binary Tree Level Order Traversal | Medium |
-| 57 | Minimum Depth of Binary Tree | Easy |
+| Day | Problem | LeetCode | Difficulty | Main Concept |
+| --- | --- | --- | --- | --- |
+| 51 | Invert Binary Tree | #226 | Easy | DFS / Recursion |
+| 52 | Maximum Depth of Binary Tree | #104 | Easy | DFS / Recursion |
+| 53 | Diameter of Binary Tree | #543 | Easy | DFS / Recursion |
+| 54 | Balanced Binary Tree | #110 | Easy | DFS / Height |
+| 55 | Same Tree | #100 | Easy | DFS / Recursion |
+| 56 | Binary Tree Level Order Traversal | #102 | Medium | BFS / Queue |
+| 57 | Minimum Depth of Binary Tree | #111 | Easy | DFS / Recursion |
+| 61 | Lowest Common Ancestor of a Binary Tree | #236 | Medium | DFS / Recursion |
 
-## Concepts Learned
+---
 
-- Binary Trees
-- Tree Traversal
-- Depth First Search (DFS)
-- Recursion
-- Base Case (`root === null`)
-- Tree Height Calculation
-- Post-order DFS
-- Recursive Return Values
-- Global Variable in Recursion
-- Diameter of Binary Tree
-- Height-Balanced Trees
-- Early Exit Optimization
-- Special Return Value (`-1`)
-- Comparing Two Binary Trees
-- Simultaneous DFS
-- Recursive Tree Comparison
-- Boolean Recursion
-- Binary Tree Level Order Traversal
+# Day 51 — Invert Binary Tree
 
-## Upcoming Problems
+### Problem
 
-- Symmetric Tree
-- Path Sum
-- Lowest Common Ancestor
-- Binary Tree Right Side View
+Given the root of a binary tree, invert the tree and return its root.
+
+### Approach
+
+Use recursion to swap the left and right children of every node.
+
+```text
+Current Node
+     ↓
+Swap Left and Right
+     ↓
+Invert Left Subtree
+     ↓
+Invert Right Subtree

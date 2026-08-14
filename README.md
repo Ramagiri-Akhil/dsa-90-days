@@ -37,9 +37,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 7 |
+| Trees | 8 |
 | Grid | 2 |
-| **Total** | **59 / 90** |
+| **Total** | **60 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -104,7 +104,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 56 | Binary Tree Level Order Traversal | Medium | ✅ |
 | 57 | Minimum Depth of Binary Tree | Medium | ✅ |
 | 58 | Rotting Oranges | Medium | ✅ |
-| 58 | Number of Islands | Medium | ✅ |
+| 59 | Number of Islands | Medium | ✅ |
+| 60 | Flood Fill | Easy | ✅ |
+| 61 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -251,7 +253,9 @@ dsa-90-days/
 │   ├── Day-56-Binary-Tree-Level-Order-Traversal.js
 │   ├── Day-56-Binary-Tree-Level-Order-Traversal.md
 │   ├── Day-57-Minimum-Depth-of-Binary-Tree.js
-│   └── Day-57-Minimum-Depth-of-Binary-Tree.md
+│   ├── Day-57-Minimum-Depth-of-Binary-Tree.md
+│   ├── Day-61-Lowest-Common-Ancestor-of-a-Binary-Tree.js
+│   └── Day-61-Lowest-Common-Ancestor-of-a-Binary-Tree.md
 │
 ├── Grids/
 │   ├── README.md
@@ -291,7 +295,7 @@ dsa-90-days/
 | String Traversal | 1 |
 | Back Tracking | 3 |
 | Dynamic Programming | 3 |
-| Trees  | 5 |
+| Trees  | 6 |
 
 # 📚 Topics Covered
 
