@@ -37,9 +37,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 8 |
+| Trees | 9 |
 | Grid | 2 |
-| **Total** | **60 / 90** |
+| **Total** | **62 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -107,6 +107,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 59 | Number of Islands | Medium | ✅ |
 | 60 | Flood Fill | Easy | ✅ |
 | 61 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ |
+| 62 | Path Sum | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -255,7 +256,9 @@ dsa-90-days/
 │   ├── Day-57-Minimum-Depth-of-Binary-Tree.js
 │   ├── Day-57-Minimum-Depth-of-Binary-Tree.md
 │   ├── Day-61-Lowest-Common-Ancestor-of-a-Binary-Tree.js
-│   └── Day-61-Lowest-Common-Ancestor-of-a-Binary-Tree.md
+│   ├── Day-61-Lowest-Common-Ancestor-of-a-Binary-Tree.md
+│   ├── Day-62-Path-Sum.js
+│   └── Day-62-Path-Sum.md
 │
 ├── Grids/
 │   ├── README.md

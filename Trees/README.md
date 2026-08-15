@@ -18,6 +18,7 @@ The problems focus on tree traversal, recursion, DFS, BFS, binary tree propertie
 | 56 | Binary Tree Level Order Traversal | #102 | Medium | BFS / Queue |
 | 57 | Minimum Depth of Binary Tree | #111 | Easy | DFS / Recursion |
 | 61 | Lowest Common Ancestor of a Binary Tree | #236 | Medium | DFS / Recursion |
+| 62 | Path Sum | #112 | Easy | DFS / Recursion |
 
 ---
 
