@@ -21,22 +21,3 @@ The problems focus on tree traversal, recursion, DFS, BFS, binary tree propertie
 | 62 | Path Sum | #112 | Easy | DFS / Recursion |
 
 ---
-
-# Day 51 — Invert Binary Tree
-
-### Problem
-
-Given the root of a binary tree, invert the tree and return its root.
-
-### Approach
-
-Use recursion to swap the left and right children of every node.
-
-```text
-Current Node
-     ↓
-Swap Left and Right
-     ↓
-Invert Left Subtree
-     ↓
-Invert Right Subtree
