@@ -37,9 +37,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 11 |
+| Trees | 12 |
 | Grid | 2 |
-| **Total** | **64 / 90** |
+| **Total** | **65 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -110,6 +110,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 62 | Path Sum | Easy | ✅ |
 | 63 | Symmetric Tree | Easy | ✅ |
 | 64 | Construct Binary Tree from Preorder and Inorder | Medium | ✅ |
+| 65 | Valid Binary Search Tree | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -264,7 +265,9 @@ dsa-90-days/
 │   ├── Day-63-Symmetric-Tree.js
 │   ├── Day-63-Symmetric-Tree.md
 │   ├── Day-64-Construct-Binary-Tree-from-Preorder-and-inorder.js
-│   └── Day-64-Construct-Binary-Tree-from-Preorder-and-inorder.md
+│   ├── Day-64-Construct-Binary-Tree-from-Preorder-and-inorder.md
+│   ├── Day-65-Valid-Binary-Search-Tree.js
+│   └── Day-65-Valid-Binary-Search-Tree.md
 │
 ├── Grids/
 │   ├── README.md

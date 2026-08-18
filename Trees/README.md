@@ -21,5 +21,6 @@ The problems focus on tree traversal, recursion, DFS, BFS, binary tree propertie
 | 62 | Path Sum | #112 | Easy | DFS / Recursion |
 | 63 | Symmetric Tree | #101 | Easy | DFS / Recursion |
 | 64 | Construct Binary Tree From PreOrder and InOrder| #105 | Medium | DFS / Recursion |
+| 65 | Valid Binary Search Tree | #98 | Medium | DFS / Recursion |
 
 ---
