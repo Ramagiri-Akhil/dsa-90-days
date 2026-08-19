@@ -22,5 +22,6 @@ The problems focus on tree traversal, recursion, DFS, BFS, binary tree propertie
 | 63 | Symmetric Tree | #101 | Easy | DFS / Recursion |
 | 64 | Construct Binary Tree From PreOrder and InOrder| #105 | Medium | DFS / Recursion |
 | 65 | Validate Binary Search Tree | #98 | Medium | DFS / Recursion |
+| 66 | Kth Smallest Element in a BST | #230 | Medium | DFS / Recursion |
 
 ---

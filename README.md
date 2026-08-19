@@ -37,7 +37,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 12 |
+| Trees | 13 |
 | Grid | 2 |
 | **Total** | **65 / 90** |
 ---
@@ -111,6 +111,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 63 | Symmetric Tree | Easy | ✅ |
 | 64 | Construct Binary Tree from Preorder and Inorder | Medium | ✅ |
 | 65 | Validate Binary Search Tree | Medium | ✅ |
+| 66 | Kth Smallest Element in a BST | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -267,7 +268,9 @@ dsa-90-days/
 │   ├── Day-64-Construct-Binary-Tree-from-Preorder-and-inorder.js
 │   ├── Day-64-Construct-Binary-Tree-from-Preorder-and-inorder.md
 │   ├── Day-65-Validate-Binary-Search-Tree.js
-│   └── Day-65-Validate-Binary-Search-Tree.md
+│   ├── Day-65-Validate-Binary-Search-Tree.md
+│   ├── Day-66-Kth-Smallest-Element-in-a-BST.js
+│   └── Day-66-Kth-Smallest-Element-in-a-BST.md
 │
 ├── Grids/
 │   ├── README.md
@@ -281,33 +284,6 @@ dsa-90-days/
 
 ---
 
-## 🧠 DSA Patterns Learned
-
-| Pattern | Problems |
-|----------|---------:|
-| Hash Map | 5 |
-| Hash Set | 3 |
-| Two Pointers | 12 |
-| Sliding Window | 5 |
-| Frequency Array | 6 |
-| Prefix Sum | 1 |
-| Bucket Sort | 1 |
-| Pointer Manipulation | 5 |
-| Dummy Node | 2 |
-| Fast & Slow Pointers | 3 |
-| Floyd's Cycle Detection | 1 |
-| Stack | 6 |
-| Queue | 2 |
-| Binary Search | 5 |
-| Merge intervals | 1 |
-| Stack Design | 1 |
-| Auxiliary Stack | 1 |
-| Kadane's Algorithm | 1 |
-| Sorting | 2 |
-| String Traversal | 1 |
-| Back Tracking | 3 |
-| Dynamic Programming | 3 |
-| Trees  | 6 |
 
 # 📚 Topics Covered
 
