@@ -37,9 +37,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Dynamic Programming | 1 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
-| Trees | 13 |
+| Trees | 14 |
 | Grid | 2 |
-| **Total** | **65 / 90** |
+| **Total** | **67 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -112,6 +112,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 64 | Construct Binary Tree from Preorder and Inorder | Medium | ✅ |
 | 65 | Validate Binary Search Tree | Medium | ✅ |
 | 66 | Kth Smallest Element in a BST | Medium | ✅ |
+| 67 | Insert into a BST | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -270,7 +271,9 @@ dsa-90-days/
 │   ├── Day-65-Validate-Binary-Search-Tree.js
 │   ├── Day-65-Validate-Binary-Search-Tree.md
 │   ├── Day-66-Kth-Smallest-Element-in-a-BST.js
-│   └── Day-66-Kth-Smallest-Element-in-a-BST.md
+│   ├── Day-66-Kth-Smallest-Element-in-a-BST.md
+│   ├── Day-67-Day-67-Insert-Into-a-BST.js
+│   └── Day-67-Day-67-Insert-Into-a-BST.md
 │
 ├── Grids/
 │   ├── README.md
