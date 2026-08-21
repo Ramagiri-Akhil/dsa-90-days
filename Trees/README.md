@@ -24,5 +24,6 @@ The problems focus on tree traversal, recursion, DFS, BFS, binary tree propertie
 | 65 | Validate Binary Search Tree | #98 | Medium | DFS / Recursion |
 | 66 | Kth Smallest Element in a BST | #230 | Medium | DFS / Recursion |
 | 67 | Insert into a BST | #701 | Medium | DFS / Recursion |
+| 68 | Climbing Stairs | #70 | Easy | Dynamic Programming |
 
 ---

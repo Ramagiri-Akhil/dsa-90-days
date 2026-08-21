@@ -34,12 +34,12 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Binary Search | 5 |
 | Intervals | 1 |
 | Two Pointers | 1 |
-| Dynamic Programming | 1 |
+| Dynamic Programming | 2 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
 | Trees | 14 |
 | Grid | 2 |
-| **Total** | **67 / 90** |
+| **Total** | **68 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -113,6 +113,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 65 | Validate Binary Search Tree | Medium | ✅ |
 | 66 | Kth Smallest Element in a BST | Medium | ✅ |
 | 67 | Insert into a BST | Medium | ✅ |
+| 68 | Climbing Stairs | Easy | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -272,8 +273,10 @@ dsa-90-days/
 │   ├── Day-65-Validate-Binary-Search-Tree.md
 │   ├── Day-66-Kth-Smallest-Element-in-a-BST.js
 │   ├── Day-66-Kth-Smallest-Element-in-a-BST.md
-│   ├── Day-67-Day-67-Insert-Into-a-BST.js
-│   └── Day-67-Day-67-Insert-Into-a-BST.md
+│   ├── Day-67-Insert-Into-a-BST.js
+│   ├── Day-67-Insert-Into-a-BST.md
+│   ├── Day-68-Climbing-Stairs.js
+│   └── Day-68-Climbing-Stairs.md
 │
 ├── Grids/
 │   ├── README.md
