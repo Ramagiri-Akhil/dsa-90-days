@@ -7,7 +7,6 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 # Arrays
 
 | Day | Problem | Difficulty | Pattern |
-| Day | Problem | Difficulty | Pattern |
 |-----|---------|------------|----------|
 | 1 | Two Sum | Easy | Hash Map |
 | 2 | Best Time to Buy and Sell Stock | Easy | Kadane's Logic |
@@ -21,10 +20,11 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 15 | Container With Most Water | Medium | Two Pointers |
 | 16 | Maximum Average Subarray I | Easy | Sliding Window |
 | 18 | Minimum Size Subarray Sum | Medium | Sliding Window |
-|22 | Group Anagrams | Medium | HashMap + Frequency Array |
+| 22 | Group Anagrams | Medium | HashMap + Frequency Array |
 | 23 | Top K Frequent Elements | Medium | HashMap + Bucket Sort |
 | 24 | Subarray Sum Equals K | Medium | Prefix Sum + HashMap |
 | 25 | Longest Consecutive Sequence | Medium | HashSet |
+| 26 | House Robber | Medium | Dynamic Programming |
 
 ---
 

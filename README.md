@@ -34,12 +34,12 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Binary Search | 5 |
 | Intervals | 1 |
 | Two Pointers | 1 |
-| Dynamic Programming | 2 |
+| Dynamic Programming | 3 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
 | Trees | 14 |
 | Grid | 2 |
-| **Total** | **68 / 90** |
+| **Total** | **69 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -114,6 +114,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 66 | Kth Smallest Element in a BST | Medium | ✅ |
 | 67 | Insert into a BST | Medium | ✅ |
 | 68 | Climbing Stairs | Easy | ✅ |
+| 69 | House Robber | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -154,7 +155,9 @@ dsa-90-days/
 │   ├── Day-24-Subarray-Sum-Equals-K.js
 │   ├── Day-24-Subarray-Sum-Equals-K.md
 │   ├── Day-25-Longest-Consecutive-Sequence.js
-│   └── Day-25-Longest-Consecutive-Sequence.md
+│   ├── Day-25-Longest-Consecutive-Sequence.md
+│   ├── Day-69-House-Robber.js
+│   └── Day-69-House-Robber.md
 │
 ├── Strings/
 │   ├── README.md
