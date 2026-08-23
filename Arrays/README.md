@@ -24,7 +24,8 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 23 | Top K Frequent Elements | Medium | HashMap + Bucket Sort |
 | 24 | Subarray Sum Equals K | Medium | Prefix Sum + HashMap |
 | 25 | Longest Consecutive Sequence | Medium | HashSet |
-| 26 | House Robber | Medium | Dynamic Programming |
+| 69 | House Robber | Medium | Dynamic Programming |
+| 70 | Coin Change | Medium | Dynamic Programming |
 
 ---
 
