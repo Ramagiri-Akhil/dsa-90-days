@@ -26,6 +26,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 25 | Longest Consecutive Sequence | Medium | HashSet |
 | 69 | House Robber | Medium | Dynamic Programming |
 | 70 | Coin Change | Medium | Dynamic Programming |
+| 71 | Longest Increasing Subsequnce | Medium | Dynamic Programming |
 
 ---
 
