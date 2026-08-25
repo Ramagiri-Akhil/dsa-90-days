@@ -1,6 +1,6 @@
 function longestIncreasingSubsequence(nums) { 
         const n = nums.length;
-
+        let maxLength = 1;
         const dp = new Array(n).fill(1);
 
         let maxLength = 1;
