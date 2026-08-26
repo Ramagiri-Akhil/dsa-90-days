@@ -39,7 +39,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Back Tracking | 4 |
 | Trees | 14 |
 | Grid | 3 |
-| **Total** | **72 / 90** |
+| **Total** | **73 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -118,6 +118,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 70 | Coin Change | Medium | ✅ |
 | 71 | Longest Increasing Subsequency | Medium | ✅ |
 | 72 | Unique Paths | Medium | ✅ |
+| 73 | Jump Game | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -164,7 +165,9 @@ dsa-90-days/
 │   ├── Day-70-Coin-Change.js
 │   ├── Day-70-Coin-Change.md
 │   ├── Day-71-Longest-Increasing-Subsequence.js
-│   └── Day-71-Longest-Increasing-Subsequence.md
+│   ├── Day-71-Longest-Increasing-Subsequence.md
+│   ├── Day-73-Jump-Game.js
+│   └── Day-73-Jump-Game.md
 │
 ├── Strings/
 │   ├── README.md
