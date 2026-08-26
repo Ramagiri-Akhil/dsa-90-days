@@ -38,8 +38,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
 | Trees | 14 |
-| Grid | 2 |
-| **Total** | **71 / 90** |
+| Grid | 3 |
+| **Total** | **72 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -116,7 +116,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 68 | Climbing Stairs | Easy | ✅ |
 | 69 | House Robber | Medium | ✅ |
 | 70 | Coin Change | Medium | ✅ |
-| 71 | Logest Increasing Subsequency | Medium | ✅ |
+| 71 | Longest Increasing Subsequency | Medium | ✅ |
+| 72 | Unique Paths | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -292,7 +293,9 @@ dsa-90-days/
 │   ├── Day-58-Rotting-Oranges.js
 │   ├── Day-58-Rotting-Oranges.md
 │   ├── Day-59-Number-of-Islands.js
-│   └── Day-59-Number-of-Islands.md
+│   ├── Day-59-Number-of-Islands.md
+│   ├── Day-72-Unique-Paths.js
+│   └── Day-72-Unique-Paths.md
 │
 └── README.md
 ```
