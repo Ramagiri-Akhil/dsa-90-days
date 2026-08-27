@@ -34,12 +34,12 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Binary Search | 5 |
 | Intervals | 1 |
 | Two Pointers | 1 |
-| Dynamic Programming | 5 |
+| Dynamic Programming | 6 |
 | Bit Manipulation | 1 |
 | Back Tracking | 4 |
 | Trees | 14 |
 | Grid | 3 |
-| **Total** | **73 / 90** |
+| **Total** | **74 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -119,6 +119,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 71 | Longest Increasing Subsequency | Medium | ✅ |
 | 72 | Unique Paths | Medium | ✅ |
 | 73 | Jump Game | Medium | ✅ |
+| 74 | Palindromic Sub-String | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -188,7 +189,9 @@ dsa-90-days/
 │   ├── Day-20-Find-All-Anagrams-in-a-String.js
 │   ├── Day-20-Find-All-Anagrams-in-a-String.md
 │   ├── Day-21-Ransom-Note.js
-│   └── Day-21-Ransom-Note.md
+│   ├── Day-21-Ransom-Note.md
+│   ├── Day-74-Palindromic-Sub-Strings.js
+│   └── Day-74-Palindromic-Sub-Strings.md
 |
 ├── Linked-Lists/
 │   ├── README.md

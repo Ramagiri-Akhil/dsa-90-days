@@ -17,6 +17,7 @@ This folder contains solutions to string-based problems from my **90 Days DSA Ch
 | 19 | Permutation in String | Strings | Medium | Sliding Window |
 | 20 | Find All Anagrams in a String | Medium  | Sliding Window + Frequency Array |
 | 21 | Ransom Note | Easy | Frequency Array |
+| 72 | Plaindromic Sub-String | Medium | Dynamic Programming |
 ---
 
 ## 🎯 Concepts Learned
