@@ -39,7 +39,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Back Tracking | 4 |
 | Trees | 14 |
 | Grid | 3 |
-| **Total** | **74 / 90** |
+| prefix/suffix pattern | 1 |
+| **Total** | **75 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -120,6 +121,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 72 | Unique Paths | Medium | ✅ |
 | 73 | Jump Game | Medium | ✅ |
 | 74 | Palindromic Sub-String | Medium | ✅ |
+| 75 | Product of Array Except Self | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -168,7 +170,9 @@ dsa-90-days/
 │   ├── Day-71-Longest-Increasing-Subsequence.js
 │   ├── Day-71-Longest-Increasing-Subsequence.md
 │   ├── Day-73-Jump-Game.js
-│   └── Day-73-Jump-Game.md
+│   ├── Day-73-Jump-Game.md
+│   ├── Day-75-Product-of-Array-Except-Self.js
+│   └── Day-75-Product-of-Array-Except-Self.md
 │
 ├── Strings/
 │   ├── README.md
