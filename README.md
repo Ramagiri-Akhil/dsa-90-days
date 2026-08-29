@@ -26,7 +26,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 16 |
+| Arrays | 15 |
 | Strings | 9 |
 | Linked Lists | 5 |
 | Stacks | 6 |
@@ -40,7 +40,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Trees | 14 |
 | Grid | 3 |
 | prefix/suffix pattern | 1 |
-| **Total** | **75 / 90** |
+| **Total** | **76 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -122,6 +122,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 73 | Jump Game | Medium | ✅ |
 | 74 | Palindromic Sub-String | Medium | ✅ |
 | 75 | Product of Array Except Self | Medium | ✅ |
+| 76 | Find the Duplicate Number | Medium | ✅ |
 ---
 
 # 📂 Repository Structure
@@ -172,7 +173,9 @@ dsa-90-days/
 │   ├── Day-73-Jump-Game.js
 │   ├── Day-73-Jump-Game.md
 │   ├── Day-75-Product-of-Array-Except-Self.js
-│   └── Day-75-Product-of-Array-Except-Self.md
+│   ├── Day-75-Product-of-Array-Except-Self.md
+│   ├── Day-76-Find-the-Duplicate-Number.js
+│   └── Day-76-Find-the-Duplicate-Number.md
 │
 ├── Strings/
 │   ├── README.md

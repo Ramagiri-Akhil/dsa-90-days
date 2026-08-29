@@ -29,6 +29,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 71 | Longest Increasing Subsequnce | Medium | Dynamic Programming |
 | 73 | Jump Game | Medium | Greedy Search |
 | 75 | Product of Array Except Self | Medium | prefix/suffix pattern |
+| 76 | Find the duplicate number | Medium | Floyd's algorithm |
 
 ---
 
