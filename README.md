@@ -26,21 +26,16 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 15 |
-| Strings | 9 |
-| Linked Lists | 5 |
-| Stacks | 6 |
-| Queues | 2 |
-| Binary Search | 5 |
-| Intervals | 1 |
-| Two Pointers | 1 |
-| Dynamic Programming | 6 |
+| Arrays | 32 |
 | Bit Manipulation | 1 |
-| Back Tracking | 4 |
-| Trees | 14 |
-| Grid | 3 |
-| prefix/suffix pattern | 1 |
-| **Total** | **76 / 90** |
+| Grid | 6 |
+| Linked Lists | 5 |
+| Patterns | 1 |
+| Queues | 2 |
+| Stacks | 5 |
+| Strings | 10 |
+| Trees | 15 |
+| **Total** | **77 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -73,7 +68,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 24 | Subarray Sum Equals K | Arrays | Medium | ✅ |
 | 25 | Longest Consecutive Sequence | Arrays | Medium | ✅ |
 | 26 | Reverse Linked List | Linked Lists | Easy | ✅ |
-| 27 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers |✅|
+| 27 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers | ✅ |
 | 28 | Linked List Cycle | Linked Lists | Easy | ✅ |
 | 29 | Middle of the Linked List | Linked Lists | Easy | ✅ |
 | 30 | Remove Nth Node From End of List | Linked Lists | Medium | ✅ |
@@ -88,41 +83,43 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 39 | Search insert Position | Binary Search | Easy | ✅ |
 | 40 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 41 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ |
-| 42 | Koko Eating Banana's| Medium | ✅ |
-| 43 | Merge Intervals | Medium | ✅ |
-| 44 | Two Pointers | Medium | ✅ |
-| 45 | Dynamic Programming | Easy | ✅ |
-| 46 | Power of Two | Easy | ✅ |
-| 47 | Subsets  | Medium | ✅ |
-| 48 | Permutations  | Medium | ✅ |
-| 49 | Combination Sum  | Medium | ✅ |
-| 50 | Word Search  | Medium | ✅ |
-| 51 | Invert Binary Tree  | Easy | ✅ |
-| 52 | Maximum Depth of Binary Tree  | Easy | ✅ |
-| 53 | Diameter of Binary Tree  | Easy | ✅ |
-| 54 | Balanced Binary Tree  | Easy | ✅ |
-| 55 | Same Binary Tree  | Easy | ✅ |
-| 56 | Binary Tree Level Order Traversal | Medium | ✅ |
-| 57 | Minimum Depth of Binary Tree | Medium | ✅ |
-| 58 | Rotting Oranges | Medium | ✅ |
-| 59 | Number of Islands | Medium | ✅ |
-| 60 | Flood Fill | Easy | ✅ |
-| 61 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ |
-| 62 | Path Sum | Easy | ✅ |
-| 63 | Symmetric Tree | Easy | ✅ |
-| 64 | Construct Binary Tree from Preorder and Inorder | Medium | ✅ |
-| 65 | Validate Binary Search Tree | Medium | ✅ |
-| 66 | Kth Smallest Element in a BST | Medium | ✅ |
-| 67 | Insert into a BST | Medium | ✅ |
-| 68 | Climbing Stairs | Easy | ✅ |
-| 69 | House Robber | Medium | ✅ |
-| 70 | Coin Change | Medium | ✅ |
-| 71 | Longest Increasing Subsequency | Medium | ✅ |
-| 72 | Unique Paths | Medium | ✅ |
-| 73 | Jump Game | Medium | ✅ |
-| 74 | Palindromic Sub-String | Medium | ✅ |
-| 75 | Product of Array Except Self | Medium | ✅ |
-| 76 | Find the Duplicate Number | Medium | ✅ |
+| 42 | Koko Eating Banana's | Binary Search | Medium | ✅ |
+| 43 | Merge Intervals | Sorting | Medium | ✅ |
+| 44 | Sort Colors | Sorting | Medium | ✅ |
+| 45 | Fibonacci Number | Recursion | Easy | ✅ |
+| 46 | Power of Two | Recursion | Easy | ✅ |
+| 47 | Subsets | Recursion | Medium | ✅ |
+| 48 | Permutations | Recursion | Medium | ✅ |
+| 49 | Combination Sum | Recursion | Medium | ✅ |
+| 50 | Word Search | Recursion | Medium | ✅ |
+| 51 | Invert Binary Tree | Trees | Easy | ✅ |
+| 52 | Maximum Depth of Binary Tree | Trees | Easy | ✅ |
+| 53 | Diameter of Binary Tree | Trees | Easy | ✅ |
+| 54 | Balanced Binary Tree | Trees | Easy | ✅ |
+| 55 | Same Binary Tree | Trees | Easy | ✅ |
+| 56 | Binary Tree Level Order Traversal | BFS | Medium | ✅ |
+| 57 | Minimum Depth of Binary Tree | BFS | Medium | ✅ |
+| 58 | Rotting Oranges | BFS | Medium | ✅ |
+| 59 | Number of Islands | BFS | Medium | ✅ |
+| 60 | Flood Fill | BFS/DFS | Easy | ✅ |
+| 61 | Lowest Common Ancestor of a Binary Tree | Trees | Medium | ✅ |
+| 62 | Path Sum | Trees | Easy | ✅ |
+| 63 | Symmetric Tree | Trees | Easy | ✅ |
+| 64 | Construct Binary Tree from Preorder and Inorder | Trees | Medium | ✅ |
+| 65 | Validate Binary Search Tree | BST | Medium | ✅ |
+| 66 | Kth Smallest Element in a BST | BST | Medium | ✅ |
+| 67 | Insert into a BST | BST | Medium | ✅ |
+| 68 | Climbing Stairs | Dynamic Programming | Easy | ✅ |
+| 69 | House Robber | Dynamic Programming | Medium | ✅ |
+| 70 | Coin Change | Dynamic Programming | Medium | ✅ |
+| 71 | Longest Increasing Subsequency | Dynamic Programming | Medium | ✅ |
+| 72 | Unique Paths | Dynamic Programming | Medium | ✅ |
+| 73 | Jump Game | Dynamic Programming | Medium | ✅ |
+| 74 | Palindromic Sub-String | Dynamic Programming | Medium | ✅ |
+| 75 | Product of Array Except Self | Arrays | Medium | ✅ |
+| 76 | Find the Duplicate Number | Arrays | Medium | ✅ |
+| 77 | Spiral Matrix | Arrays | Medium | ✅ |
+
 ---
 
 # 📂 Repository Structure
@@ -164,6 +161,26 @@ dsa-90-days/
 │   ├── Day-24-Subarray-Sum-Equals-K.md
 │   ├── Day-25-Longest-Consecutive-Sequence.js
 │   ├── Day-25-Longest-Consecutive-Sequence.md
+│   ├── Day-38-Binary-Search.js
+│   ├── Day-38-Binary-Search.md
+│   ├── Day-39-Search-Insert-Position.js
+│   ├── Day-39-Search-Insert-Position.md
+│   ├── Day-40-Find-Mininum-Rotated-Sorted-Array.js
+│   ├── Day-40-Find-Mininum-Rotated-Sorted-Array.md
+│   ├── Day-41-Serach-in-Rotated-Sorted-Array.js
+│   ├── Day-41-Serach-in-Rotated-Sorted-Array.md
+│   ├── Day-42-Koko-Eating-Banana's.js
+│   ├── Day-42-Koko-Eating-Banana's.md
+│   ├── Day-43-Merge-Intervals.js
+│   ├── Day-43-Merge-Intervals.md
+│   ├── Day-44-Sort-Colors.js
+│   ├── Day-44-Sort-Colors.md
+│   ├── Day-47-Subsets.js
+│   ├── Day-47-Subsets.md
+│   ├── Day-48-Permutations.js
+│   ├── Day-48-Permutations.md
+│   ├── Day-49-Combination-Sum.js
+│   ├── Day-49-Combination-Sum.md
 │   ├── Day-69-House-Robber.js
 │   ├── Day-69-House-Robber.md
 │   ├── Day-70-Coin-Change.js
@@ -176,6 +193,62 @@ dsa-90-days/
 │   ├── Day-75-Product-of-Array-Except-Self.md
 │   ├── Day-76-Find-the-Duplicate-Number.js
 │   └── Day-76-Find-the-Duplicate-Number.md
+│
+├── Bit Manipulation/
+│   ├── README.md
+│   ├── Day-46-Power-of-Two.js
+│   └── Day-46-Power-of-Two.md
+│
+├── Grids/
+│   ├── README.md
+│   ├── Day-50-Word-Search.js
+│   ├── Day-50-Word-Search.md
+│   ├── Day-58-Rotting-Oranges.js
+│   ├── Day-58-Rotting-Oranges.md
+│   ├── Day-59-Number-of-Islands.js
+│   ├── Day-59-Number-of-Islands.md
+│   ├── Day-72-Unique-Paths.js
+│   ├── Day-72-Unique-Paths.md
+│   ├── Day-77-Spiral-Matrix.js
+│   └── Day-77-Spiral-Matrix.md
+│
+├── Linked-Lists/
+│   ├── README.md
+│   ├── Day-26-Reverse-Linked-List.js
+│   ├── Day-26-Reverse-Linked-List.md
+│   ├── Day-27-Merge-Two-Sorted-Lists.js
+│   ├── Day-27-Merge-Two-Sorted-Lists.md
+│   ├── Day-28-Linked-List-Cycle.js
+│   ├── Day-28-Linked-List-Cycle.md
+│   ├── Day-29-Middle-of-the-Linked-List.js
+│   ├── Day-29-Middle-of-the-Linked-List.md
+│   ├── Day-30-Remove-Nth-Node-From-End-of-List.js
+│   └── Day-30-Remove-Nth-Node-From-End-of-List.md
+│
+├── Patterns/
+│   ├── README.md
+│   ├── Day-45-Fibonacci-Number.js
+│   └── Day-45-Fibonacci-Number.md
+│
+├── Queues/
+│   ├── README.md
+│   ├── Day-36-Implement-Queue-using-Stacks.js
+│   ├── Day-36-Implement-Queue-using-Stacks.md
+│   ├── Day-37-Number-of-Recent-Calls.js
+│   └── Day-37-Number-of-Recent-Calls.md
+│
+├── Stacks/
+│   ├── README.md
+│   ├── Day-31-Valid-Parentheses.js
+│   ├── Day-31-Valid-Parentheses.md
+│   ├── Day-32-Min-Stack.js
+│   ├── Day-32-Min-Stack.md
+│   ├── Day-33-Daily-Temperatures.js
+│   ├── Day-33-Daily-Temperatures.md
+│   ├── Day-34-Evaluate-Reverse-Polish-Notation.js
+│   ├── Day-34-Evaluate-Reverse-Polish-Notation.md
+│   ├── Day-35-Next-Greater-Element-I.js
+│   └── Day-35-Next-Greater-Element-I.md
 │
 ├── Strings/
 │   ├── README.md
@@ -199,75 +272,7 @@ dsa-90-days/
 │   ├── Day-21-Ransom-Note.md
 │   ├── Day-74-Palindromic-Sub-Strings.js
 │   └── Day-74-Palindromic-Sub-Strings.md
-|
-├── Linked-Lists/
-│   ├── README.md
-│   ├── Day-26-Reverse-Linked-List.js
-│   ├── Day-26-Reverse-Linked-List.md
-│   ├── Day-27-Merge-Two-Sorted-Lists.js
-│   ├── Day-27-Merge-Two-Sorted-Lists.md
-│   ├── Day-28-Linked-List-Cycle.js
-│   ├── Day-28-Linked-List-Cycle.md
-│   ├── Day-29-Middle-of-the-Linked-List.js
-│   ├── Day-29-Middle-of-the-Linked-List.md
-│   ├── Day-30-Remove-Nth-Node-From-End-of-List.js
-│   └── Day-30-Remove-Nth-Node-From-End-of-List.md
-├── Stacks/
-│   ├── README.md
-│   ├── Day-31-Valid-Parentheses.js
-│   ├── Day-31-Valid-Parentheses.md
-│   ├── Day-32-Min-Stack.js
-│   ├── Day-32-Min-Stack.md
-│   ├── Day-33-Daily-Temperatures.js
-│   ├── Day-33-Daily-Temperatures.md
-│   ├── Day-34-Evaluate-Reverse-Polish-Notation.js
-│   ├── Day-34-Evaluate-Reverse-Polish-Notation.md
-│   ├── Day-35-Next-Greater-Element-I.js
-│   └── Day-35-Next-Greater-Element-I.md
-├── Queues/
-│   ├── README.md
-│   ├── Day-36-Implement-Queue-using-Stacks.js
-│   ├── Day-36-Implement-Queue-using-Stacks.md
-│   ├── Day-37-Number-of-Recent-Calls.js
-│   └── Day-37-Number-of-Recent-Calls.md
-├── Binary Search/
-│   ├── README.md
-│   ├── Day-38-Binary-Search.js
-│   ├── Day-38-Binary-Search.md
-│   ├── Day-39-Search-Insert-Position.js
-│   ├── Day-39-Search-Insert-Position.md
-│   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.js
-│   ├── Day-40-Find-Minimum-in-Rotated-Sorted-Array.md
-│   ├── Day-41-Search-in-Rotated-Sorted-Array.js
-│   ├── Day-41-Search-in-Rotated-Sorted-Array.md
-│   ├── Day-42-Koko-Eating-Bananas.js
-│   └── Day-42-Koko-Eating-Bananas.md
-├── Intervals/
-│   ├── README.md
-│   ├── Day-43-Merge-Intervals.js
-│   └── Day-43-Merge-Intervals.md
-├── Two Pointers/
-│   ├── README.md
-│   ├── Day-44-Sort-Colors.js
-│   └── Day-44-Sort-Colors.md
-├── Dynamic Programming/
-│   ├── README.md
-│   ├── Day-45-Fibonacci-Number.js
-│   └── Day-45-Fibonacci-Number.md
-├── Bit Manipulation/
-│   ├── README.md
-│   ├── Day-46-Power-of-Two.js
-│   └── Day-46-Power-of-Two.md
-├── Backtracking/
-│   ├── README.md
-│   ├── Day-47-Subsets.js
-│   ├── Day-47-Subsets.md
-│   ├── Day-48-Permutations.js
-│   ├── Day-48-Permutations.md
-│   ├── Day-49-Combination-Sum.js
-│   ├── Day-49-Combination-Sum.md
-│   ├── Day-50-Word-Search.js
-│   └── Day-50-Word-Search.md
+│
 ├── Trees/
 │   ├── README.md
 │   ├── Day-51-Invert-Binary-Tree.js
@@ -301,14 +306,6 @@ dsa-90-days/
 │   ├── Day-68-Climbing-Stairs.js
 │   └── Day-68-Climbing-Stairs.md
 │
-├── Grids/
-│   ├── README.md
-│   ├── Day-58-Rotting-Oranges.js
-│   ├── Day-58-Rotting-Oranges.md
-│   ├── Day-59-Number-of-Islands.js
-│   ├── Day-59-Number-of-Islands.md
-│   ├── Day-72-Unique-Paths.js
-│   └── Day-72-Unique-Paths.md
 │
 └── README.md
 ```

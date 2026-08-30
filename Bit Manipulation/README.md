@@ -1,12 +1,18 @@
 # Bit Manipulation
 
-Bit Manipulation involves performing operations directly on the binary representation of numbers. These techniques often lead to highly optimized solutions with constant space and time complexity.
+This folder contains Bit Manipulation problems solved as part of my **90-Day DSA Challenge**.
+
+Bit Manipulation involves performing operations directly on the binary representation of numbers. These techniques can lead to highly optimized solutions with constant or near-constant space complexity.
+
+---
 
 ## Problems Solved
 
-| Day | Problem | Difficulty |
-|-----|---------|------------|
-| 46 | Power of Two | Easy |
+| Day | Problem | LeetCode | Difficulty | Main Concept |
+| --- | --- | --- | --- | --- |
+| 46 | Power of Two | #231 | Easy | Bit Manipulation |
+
+---
 
 ## Concepts Learned
 
@@ -14,11 +20,4 @@ Bit Manipulation involves performing operations directly on the binary represent
 - Bitwise AND (`&`)
 - Checking Set Bits
 - Bit Manipulation Tricks
-
-## Upcoming Problems
-
-- Number of 1 Bits
-- Counting Bits
-- Single Number
-- Reverse Bits
-- Missing Number
+- Bitwise Operations

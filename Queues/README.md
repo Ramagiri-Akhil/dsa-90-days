@@ -1,13 +1,21 @@
 # Queues
 
-| Day | Problem | Difficulty | Pattern |
-|-----|---------|------------|---------|
-| 36 | Implement Queue using Stacks | Easy | Queue Design, Two Stacks |
-| 37 | Number of Recent Calls | Easy | Queue, Sliding Window |
+This folder contains Queue-based DSA problems solved as part of my **90-Day DSA Challenge**.
+
+The problems focus on FIFO operations, queue implementation, two-stack techniques, sliding time windows, streaming data, and common queue problem-solving patterns.
 
 ---
 
-## Concepts Learned
+## 📚 Problems Solved
+
+| Day | Problem | LeetCode | Difficulty | Main Concept |
+| --- | --- | --- | --- | --- |
+| 36 | Implement Queue using Stacks | #232 | Easy | Queue Design + Two Stacks |
+| 37 | Number of Recent Calls | #933 | Easy | Queue + Sliding Window |
+
+---
+
+## 🧠 Concepts Learned
 
 - Queue
 - FIFO (First In, First Out)
@@ -15,19 +23,7 @@
 - Sliding Time Window
 - Streaming Data
 - Amortized Analysis
+- Queue Design
+- Enqueue & Dequeue Operations
 
 ---
-
-## Problems Covered
-
-- ✅ Implement Queue using Stacks
-- ✅ Number of Recent Calls
-
----
-
-## Upcoming Queue Problems
-
-- Moving Average from Data Stream
-- Dota2 Senate
-- Design Circular Queue
-- Time Needed to Buy Tickets
