@@ -28,7 +28,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 32 |
 | Bit Manipulation | 1 |
-| Grid | 6 |
+| Grid | 7 |
 | Linked Lists | 5 |
 | Patterns | 1 |
 | Queues | 2 |
@@ -118,7 +118,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 74 | Palindromic Sub-String | Dynamic Programming | Medium | ✅ |
 | 75 | Product of Array Except Self | Arrays | Medium | ✅ |
 | 76 | Find the Duplicate Number | Arrays | Medium | ✅ |
-| 77 | Spiral Matrix | Arrays | Medium | ✅ |
+| 77 | Spiral Matrix | Grids | Medium | ✅ |
+| 78 | Set Matrix to Zero's | Grids | Medium | ✅ |
 
 ---
 
@@ -210,7 +211,9 @@ dsa-90-days/
 │   ├── Day-72-Unique-Paths.js
 │   ├── Day-72-Unique-Paths.md
 │   ├── Day-77-Spiral-Matrix.js
-│   └── Day-77-Spiral-Matrix.md
+│   ├── Day-77-Spiral-Matrix.md
+│   ├── Day-78-Set-Matrix-to-Zero.js
+│   └── Day-78-Set-Matrix-to-Zero.md
 │
 ├── Linked-Lists/
 │   ├── README.md
