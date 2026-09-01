@@ -20,6 +20,7 @@ The problems focus on string traversal, character manipulation, two pointers, ha
 | 20 | Find All Anagrams in a String | #438 | Medium | Sliding Window + Frequency Array |
 | 21 | Ransom Note | #383 | Easy | Frequency Array |
 | 74 | Palindromic Substrings | #647 | Medium | Expand Around Center |
+| 79 | Decode Ways | #91 | Medium | Dynamic Programming |
 
 ---
 

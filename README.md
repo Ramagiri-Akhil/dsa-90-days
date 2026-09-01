@@ -33,9 +33,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Patterns | 1 |
 | Queues | 2 |
 | Stacks | 5 |
-| Strings | 10 |
+| Strings | 11 |
 | Trees | 15 |
-| **Total** | **77 / 90** |
+| **Total** | **79 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -120,6 +120,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 76 | Find the Duplicate Number | Arrays | Medium | ✅ |
 | 77 | Spiral Matrix | Grids | Medium | ✅ |
 | 78 | Set Matrix to Zero's | Grids | Medium | ✅ |
+| 79 | Decode Way's | Strings | Medium | ✅ |
 
 ---
 
@@ -274,7 +275,9 @@ dsa-90-days/
 │   ├── Day-21-Ransom-Note.js
 │   ├── Day-21-Ransom-Note.md
 │   ├── Day-74-Palindromic-Sub-Strings.js
-│   └── Day-74-Palindromic-Sub-Strings.md
+│   ├── Day-74-Palindromic-Sub-Strings.md
+│   ├── Day-79-Decode-Ways.js
+│   └── Day-79-Decode-Ways.md
 │
 ├── Trees/
 │   ├── README.md
