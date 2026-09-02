@@ -33,9 +33,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Patterns | 1 |
 | Queues | 2 |
 | Stacks | 5 |
-| Strings | 11 |
+| Strings | 12 |
 | Trees | 15 |
-| **Total** | **79 / 90** |
+| **Total** | **80 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -121,6 +121,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 77 | Spiral Matrix | Grids | Medium | ✅ |
 | 78 | Set Matrix to Zero's | Grids | Medium | ✅ |
 | 79 | Decode Way's | Strings | Medium | ✅ |
+| 80 | Minimum Window Substring | Strings | Hard | ✅ |
 
 ---
 
@@ -277,7 +278,9 @@ dsa-90-days/
 │   ├── Day-74-Palindromic-Sub-Strings.js
 │   ├── Day-74-Palindromic-Sub-Strings.md
 │   ├── Day-79-Decode-Ways.js
-│   └── Day-79-Decode-Ways.md
+│   ├── Day-79-Decode-Ways.md
+│   ├── Day-80-Minimum-Window-Substring.js
+│   └── Day-80-Minimum-Window-Substring.md
 │
 ├── Trees/
 │   ├── README.md

@@ -21,6 +21,7 @@ The problems focus on string traversal, character manipulation, two pointers, ha
 | 21 | Ransom Note | #383 | Easy | Frequency Array |
 | 74 | Palindromic Substrings | #647 | Medium | Expand Around Center |
 | 79 | Decode Ways | #91 | Medium | Dynamic Programming |
+| 80 | Minimum window Substring | #76 | Hard | Sliding Window |
 
 ---
 
