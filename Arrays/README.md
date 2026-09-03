@@ -40,6 +40,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 73 | Jump Game | #55 | Medium | Greedy |
 | 75 | Product of Array Except Self | #238 | Medium | Prefix/Suffix |
 | 76 | Find the Duplicate Number | #287 | Medium | Floyd's Cycle Detection |
+| 81 | Largest Rectangle in Histogram | #84 | Hard | Stacks |
 
 ---
 

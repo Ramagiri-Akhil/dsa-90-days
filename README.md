@@ -26,7 +26,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 32 |
+| Arrays | 33 |
 | Bit Manipulation | 1 |
 | Grid | 7 |
 | Linked Lists | 5 |
@@ -35,7 +35,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 12 |
 | Trees | 15 |
-| **Total** | **80 / 90** |
+| **Total** | **81 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -122,6 +122,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 78 | Set Matrix to Zero's | Grids | Medium | ✅ |
 | 79 | Decode Way's | Strings | Medium | ✅ |
 | 80 | Minimum Window Substring | Strings | Hard | ✅ |
+| 81 | Largest Rectangle in Histogram | Arrays | Hard | ✅ |
 
 ---
 
@@ -195,7 +196,9 @@ dsa-90-days/
 │   ├── Day-75-Product-of-Array-Except-Self.js
 │   ├── Day-75-Product-of-Array-Except-Self.md
 │   ├── Day-76-Find-the-Duplicate-Number.js
-│   └── Day-76-Find-the-Duplicate-Number.md
+│   ├── Day-76-Find-the-Duplicate-Number.md
+│   ├── Day-81-Largest-Rectangle-in-Histogram.js
+│   └── Day-81-Largest-Rectangle-in-Histogram.md
 │
 ├── Bit Manipulation/
 │   ├── README.md
