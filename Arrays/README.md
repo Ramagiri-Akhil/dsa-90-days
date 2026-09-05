@@ -41,7 +41,8 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 75 | Product of Array Except Self | #238 | Medium | Prefix/Suffix |
 | 76 | Find the Duplicate Number | #287 | Medium | Floyd's Cycle Detection |
 | 81 | Largest Rectangle in Histogram | #84 | Hard | Monostack |
-| 82 | Trapping Rain Water | #42 | Hard | Two Pointer approach. |
+| 82 | Trapping Rain Water | #42 | Hard | Two Pointer approach |
+| 83 | Median of Two Sorted Arrays | #4 | Hard | Binary Search |
 
 ---
 

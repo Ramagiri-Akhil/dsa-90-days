@@ -26,7 +26,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 34 |
+| Arrays | 35 |
 | Bit Manipulation | 1 |
 | Grid | 7 |
 | Linked Lists | 5 |
@@ -35,7 +35,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 12 |
 | Trees | 15 |
-| **Total** | **82 / 90** |
+| **Total** | **83 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -124,6 +124,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 80 | Minimum Window Substring | Strings | Hard | ✅ |
 | 81 | Largest Rectangle in Histogram | Arrays | Hard | ✅ |
 | 82 | Trapping Rain Water | Arrays | Hard | ✅ |
+| 83 | Median of Two Sorted Arrays | Arrays | Hard | ✅ |
 
 ---
 
@@ -201,7 +202,9 @@ dsa-90-days/
 │   ├── Day-81-Largest-Rectangle-in-Histogram.js
 │   ├── Day-81-Largest-Rectangle-in-Histogram.md
 │   ├── Day-82-Trapping-Rain-Water.js
-│   └── Day-82-Trapping-Rain-Water.md
+│   ├── Day-82-Trapping-Rain-Water.md
+│   ├── Day-83-Median-of-Two-Sorted-Arrays.js
+│   └── Day-83-Median-of-Two-Sorted-Arrays.md
 │
 ├── Bit Manipulation/
 │   ├── README.md
