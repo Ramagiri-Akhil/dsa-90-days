@@ -26,7 +26,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 35 |
+| Arrays | 36 |
 | Bit Manipulation | 1 |
 | Grid | 7 |
 | Linked Lists | 5 |
@@ -35,7 +35,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 13 |
 | Trees | 15 |
-| **Total** | **84 / 90** |
+| **Total** | **85 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -126,6 +126,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 82 | Trapping Rain Water | Arrays | Hard | ✅ |
 | 83 | Median of Two Sorted Arrays | Arrays | Hard | ✅ |
 | 84 | Word Ladder | Strings | Hard | ✅ |
+| 85 | Course Schedule | Arrays | Hard | ✅ |
 
 ---
 
@@ -205,7 +206,9 @@ dsa-90-days/
 │   ├── Day-82-Trapping-Rain-Water.js
 │   ├── Day-82-Trapping-Rain-Water.md
 │   ├── Day-83-Median-of-Two-Sorted-Arrays.js
-│   └── Day-83-Median-of-Two-Sorted-Arrays.md
+│   ├── Day-83-Median-of-Two-Sorted-Arrays.md
+│   ├── Day-85-Course-Schedule.js
+│   └── Day-85-Course-Schedule.md
 │
 ├── Bit Manipulation/
 │   ├── README.md

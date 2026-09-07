@@ -43,6 +43,7 @@ This folder contains solutions to array-based problems from my **90 Days DSA Cha
 | 81 | Largest Rectangle in Histogram | #84 | Hard | Monostack |
 | 82 | Trapping Rain Water | #42 | Hard | Two Pointer approach |
 | 83 | Median of Two Sorted Arrays | #4 | Hard | Binary Search |
+| 85 | Course Schedule | #207 | Hard | (Topological Sort) Graphs |
 
 ---
 
