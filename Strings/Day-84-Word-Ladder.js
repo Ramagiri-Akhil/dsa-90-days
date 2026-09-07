@@ -7,8 +7,6 @@ function wordLadder(beginWord, endWord, wordList) {
 
     let queue = [[beginWord, 1]];
 
-    words.delete(beginWord);
-
     let index = 0;
 
     while (index < queue.length) {

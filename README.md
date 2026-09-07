@@ -33,9 +33,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Patterns | 1 |
 | Queues | 2 |
 | Stacks | 5 |
-| Strings | 12 |
+| Strings | 13 |
 | Trees | 15 |
-| **Total** | **83 / 90** |
+| **Total** | **84 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -125,6 +125,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 81 | Largest Rectangle in Histogram | Arrays | Hard | ✅ |
 | 82 | Trapping Rain Water | Arrays | Hard | ✅ |
 | 83 | Median of Two Sorted Arrays | Arrays | Hard | ✅ |
+| 84 | Word Ladder | Strings | Hard | ✅ |
 
 ---
 
@@ -289,7 +290,9 @@ dsa-90-days/
 │   ├── Day-79-Decode-Ways.js
 │   ├── Day-79-Decode-Ways.md
 │   ├── Day-80-Minimum-Window-Substring.js
-│   └── Day-80-Minimum-Window-Substring.md
+│   ├── Day-80-Minimum-Window-Substring.md
+│   ├── Day-84-Word-Ladder.js
+│   └── Day-84-Word-Ladder.md
 │
 ├── Trees/
 │   ├── README.md
