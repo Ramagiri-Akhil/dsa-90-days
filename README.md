@@ -28,6 +28,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 36 |
 | Bit Manipulation | 1 |
+| Graphs | 1 |
 | Grid | 7 |
 | Linked Lists | 5 |
 | Patterns | 1 |
@@ -35,7 +36,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 13 |
 | Trees | 15 |
-| **Total** | **85 / 90** |
+| **Total** | **86 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -126,7 +127,8 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 82 | Trapping Rain Water | Arrays | Hard | ✅ |
 | 83 | Median of Two Sorted Arrays | Arrays | Hard | ✅ |
 | 84 | Word Ladder | Strings | Hard | ✅ |
-| 85 | Course Schedule | Arrays | Hard | ✅ |
+| 85 | Course Schedule | Graphs | Medium | ✅ |
+| 86 | Clone Graph | Graphs | Medium | ✅ |
 
 ---
 
@@ -214,6 +216,11 @@ dsa-90-days/
 │   ├── README.md
 │   ├── Day-46-Power-of-Two.js
 │   └── Day-46-Power-of-Two.md
+│
+├── Graphs/
+│   ├── README.md
+│   ├── Day-86-Cloned-Graph.js
+│   └── Day-86-Cloned-Graph.js
 │
 ├── Grids/
 │   ├── README.md
