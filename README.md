@@ -28,7 +28,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 36 |
 | Bit Manipulation | 1 |
-| Graphs | 1 |
+| Graphs | 2 |
 | Grid | 8 |
 | Linked Lists | 5 |
 | Patterns | 1 |
@@ -36,7 +36,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 13 |
 | Trees | 15 |
-| **Total** | **87 / 90** |
+| **Total** | **88 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -130,6 +130,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 85 | Course Schedule | Graphs | Medium | ✅ |
 | 86 | Clone Graph | Graphs | Medium | ✅ |
 | 87 | Pacific Atlantic Water Flow | Grids | Medium | ✅ |
+| 88 | Network Delay Time | Graphs | Medium | ✅ |
 
 ---
 
@@ -221,7 +222,9 @@ dsa-90-days/
 ├── Graphs/
 │   ├── README.md
 │   ├── Day-86-Cloned-Graph.js
-│   └── Day-86-Cloned-Graph.js
+│   ├── Day-86-Cloned-Graph.md
+│   ├── Day-88-Network-Delay-Time.js
+│   └── Day-88-Network-Delay-Time.md
 │
 ├── Grids/
 │   ├── README.md

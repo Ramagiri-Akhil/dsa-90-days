@@ -13,5 +13,6 @@ The problems focus on graph traversal, BFS, DFS, shortest paths, cycle detection
 | 84 | Word Ladder | #127 | Hard | BFS / Shortest Path |
 | 86 | Course Schedule | #207 | Medium | BFS / Topological Sort |
 | 87 | Clone Graph | #133 | Medium | DFS / HashMap |
+| 88 | Network Delay Time | #743 | Medium | Dijkstra's Algorithm |
 
 ----
