@@ -29,14 +29,14 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Arrays | 36 |
 | Bit Manipulation | 1 |
 | Graphs | 1 |
-| Grid | 7 |
+| Grid | 8 |
 | Linked Lists | 5 |
 | Patterns | 1 |
 | Queues | 2 |
 | Stacks | 5 |
 | Strings | 13 |
 | Trees | 15 |
-| **Total** | **86 / 90** |
+| **Total** | **87 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -129,6 +129,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 84 | Word Ladder | Strings | Hard | ✅ |
 | 85 | Course Schedule | Graphs | Medium | ✅ |
 | 86 | Clone Graph | Graphs | Medium | ✅ |
+| 87 | Pacific Atlantic Water Flow | Grids | Medium | ✅ |
 
 ---
 
@@ -235,7 +236,9 @@ dsa-90-days/
 │   ├── Day-77-Spiral-Matrix.js
 │   ├── Day-77-Spiral-Matrix.md
 │   ├── Day-78-Set-Matrix-to-Zero.js
-│   └── Day-78-Set-Matrix-to-Zero.md
+│   ├── Day-78-Set-Matrix-to-Zero.md
+│   ├── Day-87-pacific-Atlantic-Water-Flow.js
+│   └── Day-87-pacific-Atlantic-Water-Flow.md
 │
 ├── Linked-Lists/
 │   ├── README.md

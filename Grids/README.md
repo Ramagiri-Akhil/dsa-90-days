@@ -17,6 +17,7 @@ The problems focus on grid traversal, BFS, DFS, matrix manipulation, connected c
 | 72 | Unique Paths | #62 | Medium | Dynamic Programming / Grid Traversal |
 | 77 | Spiral Matrix | #54 | Medium | Matrix Traversal / Boundaries |
 | 78 | Set Matrix to Zero | #73 | Medium | Matrix Traversal |
+| 87 | Pacific Atlantic Water Flow | #417 | Medium | Matrix Traversal |
 
 ---
 
