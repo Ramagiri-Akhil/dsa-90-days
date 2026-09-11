@@ -22,7 +22,9 @@ The problems focus on string traversal, character manipulation, two pointers, ha
 | 74 | Palindromic Substrings | #647 | Medium | Expand Around Center |
 | 79 | Decode Ways | #91 | Medium | Dynamic Programming |
 | 80 | Minimum window Substring | #76 | Hard | Sliding Window |
-| 84 | Word Ladder | #127 | Hard | BFS  |
+| 84 | Word Ladder | #127 | Hard | BFS |
+| 89 | Longest Palindromic Sub String | #5 | Medium | Dynamic Programming |
+
 
 ---
 

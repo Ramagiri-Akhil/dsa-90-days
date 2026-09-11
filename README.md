@@ -34,9 +34,9 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Patterns | 1 |
 | Queues | 2 |
 | Stacks | 5 |
-| Strings | 13 |
+| Strings | 14 |
 | Trees | 15 |
-| **Total** | **88 / 90** |
+| **Total** | **89 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -131,6 +131,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 86 | Clone Graph | Graphs | Medium | ✅ |
 | 87 | Pacific Atlantic Water Flow | Grids | Medium | ✅ |
 | 88 | Network Delay Time | Graphs | Medium | ✅ |
+| 89 | Longest Palindromic SubString | Strings | Medium | ✅ |
 
 ---
 
@@ -308,7 +309,9 @@ dsa-90-days/
 │   ├── Day-80-Minimum-Window-Substring.js
 │   ├── Day-80-Minimum-Window-Substring.md
 │   ├── Day-84-Word-Ladder.js
-│   └── Day-84-Word-Ladder.md
+│   ├── Day-84-Word-Ladder.md
+│   ├── Day-89-Longest-Palindromic-Substring.js
+│   └── Day-89-Longest-Palindromic-Substring.md
 │
 ├── Trees/
 │   ├── README.md
