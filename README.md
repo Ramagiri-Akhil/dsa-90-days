@@ -28,6 +28,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 |--------|----------------:|
 | Arrays | 36 |
 | Bit Manipulation | 1 |
+| Design | 1 |
 | Graphs | 2 |
 | Grid | 8 |
 | Linked Lists | 5 |
@@ -36,7 +37,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | Stacks | 5 |
 | Strings | 14 |
 | Trees | 15 |
-| **Total** | **89 / 90** |
+| **Total** | **90 / 90** |
 ---
 
 # 📅 Progress Tracker
@@ -132,6 +133,7 @@ I'm solving one LeetCode problem every day using **JavaScript** to strengthen my
 | 87 | Pacific Atlantic Water Flow | Grids | Medium | ✅ |
 | 88 | Network Delay Time | Graphs | Medium | ✅ |
 | 89 | Longest Palindromic SubString | Strings | Medium | ✅ |
+| 90 | LRU Cache | Design | Medium | ✅ |
 
 ---
 
@@ -219,6 +221,11 @@ dsa-90-days/
 │   ├── README.md
 │   ├── Day-46-Power-of-Two.js
 │   └── Day-46-Power-of-Two.md
+│
+├── Design/
+│   ├── README.md
+│   ├── Day-90-LRU-Cache.js
+│   └── Day-90-LRU-Cache.md
 │
 ├── Graphs/
 │   ├── README.md
@@ -362,11 +369,9 @@ dsa-90-days/
 - ✅ Queues
 - ✅ Trees
 - ✅ Back Tracking
+- ✅ Graphs
+- ✅ Heaps
 
-🚧 Upcoming Topics
-
-- Graphs
-- Heap
 
 ---
 
